@@ -1,0 +1,13 @@
+D:\ITVDN\Base_OOP\Lesson4\Abstraction\002_Abstraction\bin\Debug\netcoreapp3.1\002_Abstraction.exe
+D:\ITVDN\Base_OOP\Lesson4\Abstraction\002_Abstraction\bin\Debug\netcoreapp3.1\002_Abstraction.deps.json
+D:\ITVDN\Base_OOP\Lesson4\Abstraction\002_Abstraction\bin\Debug\netcoreapp3.1\002_Abstraction.runtimeconfig.json
+D:\ITVDN\Base_OOP\Lesson4\Abstraction\002_Abstraction\bin\Debug\netcoreapp3.1\002_Abstraction.runtimeconfig.dev.json
+D:\ITVDN\Base_OOP\Lesson4\Abstraction\002_Abstraction\bin\Debug\netcoreapp3.1\002_Abstraction.dll
+D:\ITVDN\Base_OOP\Lesson4\Abstraction\002_Abstraction\bin\Debug\netcoreapp3.1\002_Abstraction.pdb
+D:\ITVDN\Base_OOP\Lesson4\Abstraction\002_Abstraction\obj\Debug\netcoreapp3.1\002_Abstraction.csprojAssemblyReference.cache
+D:\ITVDN\Base_OOP\Lesson4\Abstraction\002_Abstraction\obj\Debug\netcoreapp3.1\002_Abstraction.AssemblyInfoInputs.cache
+D:\ITVDN\Base_OOP\Lesson4\Abstraction\002_Abstraction\obj\Debug\netcoreapp3.1\002_Abstraction.AssemblyInfo.cs
+D:\ITVDN\Base_OOP\Lesson4\Abstraction\002_Abstraction\obj\Debug\netcoreapp3.1\002_Abstraction.csproj.CoreCompileInputs.cache
+D:\ITVDN\Base_OOP\Lesson4\Abstraction\002_Abstraction\obj\Debug\netcoreapp3.1\002_Abstraction.dll
+D:\ITVDN\Base_OOP\Lesson4\Abstraction\002_Abstraction\obj\Debug\netcoreapp3.1\002_Abstraction.pdb
+D:\ITVDN\Base_OOP\Lesson4\Abstraction\002_Abstraction\obj\Debug\netcoreapp3.1\002_Abstraction.genruntimeconfig.cache

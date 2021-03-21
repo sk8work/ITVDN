@@ -1,0 +1,13 @@
+D:\ITVDN\Base_OOP\Lesson3\Interfaces\Interfaces\001_Interfaces\obj\Debug\netcoreapp3.1\001_Interfaces.csprojAssemblyReference.cache
+D:\ITVDN\Base_OOP\Lesson3\Interfaces\Interfaces\001_Interfaces\obj\Debug\netcoreapp3.1\001_Interfaces.AssemblyInfoInputs.cache
+D:\ITVDN\Base_OOP\Lesson3\Interfaces\Interfaces\001_Interfaces\obj\Debug\netcoreapp3.1\001_Interfaces.AssemblyInfo.cs
+D:\ITVDN\Base_OOP\Lesson3\Interfaces\Interfaces\001_Interfaces\obj\Debug\netcoreapp3.1\001_Interfaces.csproj.CoreCompileInputs.cache
+D:\ITVDN\Base_OOP\Lesson3\Interfaces\Interfaces\001_Interfaces\bin\Debug\netcoreapp3.1\001_Interfaces.exe
+D:\ITVDN\Base_OOP\Lesson3\Interfaces\Interfaces\001_Interfaces\bin\Debug\netcoreapp3.1\001_Interfaces.deps.json
+D:\ITVDN\Base_OOP\Lesson3\Interfaces\Interfaces\001_Interfaces\bin\Debug\netcoreapp3.1\001_Interfaces.runtimeconfig.json
+D:\ITVDN\Base_OOP\Lesson3\Interfaces\Interfaces\001_Interfaces\bin\Debug\netcoreapp3.1\001_Interfaces.runtimeconfig.dev.json
+D:\ITVDN\Base_OOP\Lesson3\Interfaces\Interfaces\001_Interfaces\bin\Debug\netcoreapp3.1\001_Interfaces.dll
+D:\ITVDN\Base_OOP\Lesson3\Interfaces\Interfaces\001_Interfaces\bin\Debug\netcoreapp3.1\001_Interfaces.pdb
+D:\ITVDN\Base_OOP\Lesson3\Interfaces\Interfaces\001_Interfaces\obj\Debug\netcoreapp3.1\001_Interfaces.dll
+D:\ITVDN\Base_OOP\Lesson3\Interfaces\Interfaces\001_Interfaces\obj\Debug\netcoreapp3.1\001_Interfaces.pdb
+D:\ITVDN\Base_OOP\Lesson3\Interfaces\Interfaces\001_Interfaces\obj\Debug\netcoreapp3.1\001_Interfaces.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\ITVDN\003_MultipleAssignment\bin\Debug\netcoreapp3.1\003_MultipleAssignment.exe
+D:\ITVDN\003_MultipleAssignment\bin\Debug\netcoreapp3.1\003_MultipleAssignment.deps.json
+D:\ITVDN\003_MultipleAssignment\bin\Debug\netcoreapp3.1\003_MultipleAssignment.runtimeconfig.json
+D:\ITVDN\003_MultipleAssignment\bin\Debug\netcoreapp3.1\003_MultipleAssignment.runtimeconfig.dev.json
+D:\ITVDN\003_MultipleAssignment\bin\Debug\netcoreapp3.1\003_MultipleAssignment.dll
+D:\ITVDN\003_MultipleAssignment\bin\Debug\netcoreapp3.1\003_MultipleAssignment.pdb
+D:\ITVDN\003_MultipleAssignment\obj\Debug\netcoreapp3.1\003_MultipleAssignment.csprojAssemblyReference.cache
+D:\ITVDN\003_MultipleAssignment\obj\Debug\netcoreapp3.1\003_MultipleAssignment.AssemblyInfoInputs.cache
+D:\ITVDN\003_MultipleAssignment\obj\Debug\netcoreapp3.1\003_MultipleAssignment.AssemblyInfo.cs
+D:\ITVDN\003_MultipleAssignment\obj\Debug\netcoreapp3.1\003_MultipleAssignment.csproj.CoreCompileInputs.cache
+D:\ITVDN\003_MultipleAssignment\obj\Debug\netcoreapp3.1\003_MultipleAssignment.dll
+D:\ITVDN\003_MultipleAssignment\obj\Debug\netcoreapp3.1\003_MultipleAssignment.pdb
+D:\ITVDN\003_MultipleAssignment\obj\Debug\netcoreapp3.1\003_MultipleAssignment.genruntimeconfig.cache

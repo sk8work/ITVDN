@@ -1,0 +1,12 @@
+D:\ITVDN\Base_OOP\Lesson1\007_Constructors\bin\Debug\netcoreapp3.1\007_Constructors.exe
+D:\ITVDN\Base_OOP\Lesson1\007_Constructors\bin\Debug\netcoreapp3.1\007_Constructors.deps.json
+D:\ITVDN\Base_OOP\Lesson1\007_Constructors\bin\Debug\netcoreapp3.1\007_Constructors.runtimeconfig.json
+D:\ITVDN\Base_OOP\Lesson1\007_Constructors\bin\Debug\netcoreapp3.1\007_Constructors.runtimeconfig.dev.json
+D:\ITVDN\Base_OOP\Lesson1\007_Constructors\bin\Debug\netcoreapp3.1\007_Constructors.dll
+D:\ITVDN\Base_OOP\Lesson1\007_Constructors\bin\Debug\netcoreapp3.1\007_Constructors.pdb
+D:\ITVDN\Base_OOP\Lesson1\007_Constructors\obj\Debug\netcoreapp3.1\007_Constructors.AssemblyInfoInputs.cache
+D:\ITVDN\Base_OOP\Lesson1\007_Constructors\obj\Debug\netcoreapp3.1\007_Constructors.AssemblyInfo.cs
+D:\ITVDN\Base_OOP\Lesson1\007_Constructors\obj\Debug\netcoreapp3.1\007_Constructors.csproj.CoreCompileInputs.cache
+D:\ITVDN\Base_OOP\Lesson1\007_Constructors\obj\Debug\netcoreapp3.1\007_Constructors.dll
+D:\ITVDN\Base_OOP\Lesson1\007_Constructors\obj\Debug\netcoreapp3.1\007_Constructors.pdb
+D:\ITVDN\Base_OOP\Lesson1\007_Constructors\obj\Debug\netcoreapp3.1\007_Constructors.genruntimeconfig.cache

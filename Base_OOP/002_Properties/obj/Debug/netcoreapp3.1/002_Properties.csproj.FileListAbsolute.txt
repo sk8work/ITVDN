@@ -1,0 +1,13 @@
+D:\ITVDN\Base_OOP\002_Properties\bin\Debug\netcoreapp3.1\002_Properties.exe
+D:\ITVDN\Base_OOP\002_Properties\bin\Debug\netcoreapp3.1\002_Properties.deps.json
+D:\ITVDN\Base_OOP\002_Properties\bin\Debug\netcoreapp3.1\002_Properties.runtimeconfig.json
+D:\ITVDN\Base_OOP\002_Properties\bin\Debug\netcoreapp3.1\002_Properties.runtimeconfig.dev.json
+D:\ITVDN\Base_OOP\002_Properties\bin\Debug\netcoreapp3.1\002_Properties.dll
+D:\ITVDN\Base_OOP\002_Properties\bin\Debug\netcoreapp3.1\002_Properties.pdb
+D:\ITVDN\Base_OOP\002_Properties\obj\Debug\netcoreapp3.1\002_Properties.csprojAssemblyReference.cache
+D:\ITVDN\Base_OOP\002_Properties\obj\Debug\netcoreapp3.1\002_Properties.AssemblyInfoInputs.cache
+D:\ITVDN\Base_OOP\002_Properties\obj\Debug\netcoreapp3.1\002_Properties.AssemblyInfo.cs
+D:\ITVDN\Base_OOP\002_Properties\obj\Debug\netcoreapp3.1\002_Properties.csproj.CoreCompileInputs.cache
+D:\ITVDN\Base_OOP\002_Properties\obj\Debug\netcoreapp3.1\002_Properties.dll
+D:\ITVDN\Base_OOP\002_Properties\obj\Debug\netcoreapp3.1\002_Properties.pdb
+D:\ITVDN\Base_OOP\002_Properties\obj\Debug\netcoreapp3.1\002_Properties.genruntimeconfig.cache

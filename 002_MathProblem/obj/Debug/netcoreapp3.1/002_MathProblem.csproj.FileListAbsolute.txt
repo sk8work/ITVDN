@@ -1,0 +1,13 @@
+D:\ITVDN\002_MathProblem\bin\Debug\netcoreapp3.1\002_MathProblem.exe
+D:\ITVDN\002_MathProblem\bin\Debug\netcoreapp3.1\002_MathProblem.deps.json
+D:\ITVDN\002_MathProblem\bin\Debug\netcoreapp3.1\002_MathProblem.runtimeconfig.json
+D:\ITVDN\002_MathProblem\bin\Debug\netcoreapp3.1\002_MathProblem.runtimeconfig.dev.json
+D:\ITVDN\002_MathProblem\bin\Debug\netcoreapp3.1\002_MathProblem.dll
+D:\ITVDN\002_MathProblem\bin\Debug\netcoreapp3.1\002_MathProblem.pdb
+D:\ITVDN\002_MathProblem\obj\Debug\netcoreapp3.1\002_MathProblem.csprojAssemblyReference.cache
+D:\ITVDN\002_MathProblem\obj\Debug\netcoreapp3.1\002_MathProblem.AssemblyInfoInputs.cache
+D:\ITVDN\002_MathProblem\obj\Debug\netcoreapp3.1\002_MathProblem.AssemblyInfo.cs
+D:\ITVDN\002_MathProblem\obj\Debug\netcoreapp3.1\002_MathProblem.csproj.CoreCompileInputs.cache
+D:\ITVDN\002_MathProblem\obj\Debug\netcoreapp3.1\002_MathProblem.dll
+D:\ITVDN\002_MathProblem\obj\Debug\netcoreapp3.1\002_MathProblem.pdb
+D:\ITVDN\002_MathProblem\obj\Debug\netcoreapp3.1\002_MathProblem.genruntimeconfig.cache

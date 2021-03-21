@@ -1,0 +1,12 @@
+D:\ITVDN\001_Variables\bin\Debug\netcoreapp3.1\001_Variables.exe
+D:\ITVDN\001_Variables\bin\Debug\netcoreapp3.1\001_Variables.deps.json
+D:\ITVDN\001_Variables\bin\Debug\netcoreapp3.1\001_Variables.runtimeconfig.json
+D:\ITVDN\001_Variables\bin\Debug\netcoreapp3.1\001_Variables.runtimeconfig.dev.json
+D:\ITVDN\001_Variables\bin\Debug\netcoreapp3.1\001_Variables.dll
+D:\ITVDN\001_Variables\bin\Debug\netcoreapp3.1\001_Variables.pdb
+D:\ITVDN\001_Variables\obj\Debug\netcoreapp3.1\001_Variables.AssemblyInfoInputs.cache
+D:\ITVDN\001_Variables\obj\Debug\netcoreapp3.1\001_Variables.AssemblyInfo.cs
+D:\ITVDN\001_Variables\obj\Debug\netcoreapp3.1\001_Variables.csproj.CoreCompileInputs.cache
+D:\ITVDN\001_Variables\obj\Debug\netcoreapp3.1\001_Variables.dll
+D:\ITVDN\001_Variables\obj\Debug\netcoreapp3.1\001_Variables.pdb
+D:\ITVDN\001_Variables\obj\Debug\netcoreapp3.1\001_Variables.genruntimeconfig.cache

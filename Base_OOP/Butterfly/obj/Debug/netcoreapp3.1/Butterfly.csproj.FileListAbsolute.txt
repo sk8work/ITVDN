@@ -1,0 +1,13 @@
+D:\ITVDN\Base_OOP\Butterfly\bin\Debug\netcoreapp3.1\Butterfly.exe
+D:\ITVDN\Base_OOP\Butterfly\bin\Debug\netcoreapp3.1\Butterfly.deps.json
+D:\ITVDN\Base_OOP\Butterfly\bin\Debug\netcoreapp3.1\Butterfly.runtimeconfig.json
+D:\ITVDN\Base_OOP\Butterfly\bin\Debug\netcoreapp3.1\Butterfly.runtimeconfig.dev.json
+D:\ITVDN\Base_OOP\Butterfly\bin\Debug\netcoreapp3.1\Butterfly.dll
+D:\ITVDN\Base_OOP\Butterfly\bin\Debug\netcoreapp3.1\Butterfly.pdb
+D:\ITVDN\Base_OOP\Butterfly\obj\Debug\netcoreapp3.1\Butterfly.csprojAssemblyReference.cache
+D:\ITVDN\Base_OOP\Butterfly\obj\Debug\netcoreapp3.1\Butterfly.AssemblyInfoInputs.cache
+D:\ITVDN\Base_OOP\Butterfly\obj\Debug\netcoreapp3.1\Butterfly.AssemblyInfo.cs
+D:\ITVDN\Base_OOP\Butterfly\obj\Debug\netcoreapp3.1\Butterfly.csproj.CoreCompileInputs.cache
+D:\ITVDN\Base_OOP\Butterfly\obj\Debug\netcoreapp3.1\Butterfly.dll
+D:\ITVDN\Base_OOP\Butterfly\obj\Debug\netcoreapp3.1\Butterfly.pdb
+D:\ITVDN\Base_OOP\Butterfly\obj\Debug\netcoreapp3.1\Butterfly.genruntimeconfig.cache

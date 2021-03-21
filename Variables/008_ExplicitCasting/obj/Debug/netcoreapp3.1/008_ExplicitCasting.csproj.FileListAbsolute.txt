@@ -1,0 +1,12 @@
+D:\ITVDN\Variables\008_ExplicitCasting\obj\Debug\netcoreapp3.1\008_ExplicitCasting.AssemblyInfoInputs.cache
+D:\ITVDN\Variables\008_ExplicitCasting\obj\Debug\netcoreapp3.1\008_ExplicitCasting.AssemblyInfo.cs
+D:\ITVDN\Variables\008_ExplicitCasting\obj\Debug\netcoreapp3.1\008_ExplicitCasting.csproj.CoreCompileInputs.cache
+D:\ITVDN\Variables\008_ExplicitCasting\bin\Debug\netcoreapp3.1\008_ExplicitCasting.exe
+D:\ITVDN\Variables\008_ExplicitCasting\bin\Debug\netcoreapp3.1\008_ExplicitCasting.deps.json
+D:\ITVDN\Variables\008_ExplicitCasting\bin\Debug\netcoreapp3.1\008_ExplicitCasting.runtimeconfig.json
+D:\ITVDN\Variables\008_ExplicitCasting\bin\Debug\netcoreapp3.1\008_ExplicitCasting.runtimeconfig.dev.json
+D:\ITVDN\Variables\008_ExplicitCasting\bin\Debug\netcoreapp3.1\008_ExplicitCasting.dll
+D:\ITVDN\Variables\008_ExplicitCasting\bin\Debug\netcoreapp3.1\008_ExplicitCasting.pdb
+D:\ITVDN\Variables\008_ExplicitCasting\obj\Debug\netcoreapp3.1\008_ExplicitCasting.dll
+D:\ITVDN\Variables\008_ExplicitCasting\obj\Debug\netcoreapp3.1\008_ExplicitCasting.pdb
+D:\ITVDN\Variables\008_ExplicitCasting\obj\Debug\netcoreapp3.1\008_ExplicitCasting.genruntimeconfig.cache

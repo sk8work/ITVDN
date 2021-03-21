@@ -1,0 +1,12 @@
+D:\ITVDN\Base_OOP\010_AutoProperties\bin\Debug\netcoreapp3.1\010_AutoProperties.exe
+D:\ITVDN\Base_OOP\010_AutoProperties\bin\Debug\netcoreapp3.1\010_AutoProperties.deps.json
+D:\ITVDN\Base_OOP\010_AutoProperties\bin\Debug\netcoreapp3.1\010_AutoProperties.runtimeconfig.json
+D:\ITVDN\Base_OOP\010_AutoProperties\bin\Debug\netcoreapp3.1\010_AutoProperties.runtimeconfig.dev.json
+D:\ITVDN\Base_OOP\010_AutoProperties\bin\Debug\netcoreapp3.1\010_AutoProperties.dll
+D:\ITVDN\Base_OOP\010_AutoProperties\bin\Debug\netcoreapp3.1\010_AutoProperties.pdb
+D:\ITVDN\Base_OOP\010_AutoProperties\obj\Debug\netcoreapp3.1\010_AutoProperties.AssemblyInfoInputs.cache
+D:\ITVDN\Base_OOP\010_AutoProperties\obj\Debug\netcoreapp3.1\010_AutoProperties.AssemblyInfo.cs
+D:\ITVDN\Base_OOP\010_AutoProperties\obj\Debug\netcoreapp3.1\010_AutoProperties.csproj.CoreCompileInputs.cache
+D:\ITVDN\Base_OOP\010_AutoProperties\obj\Debug\netcoreapp3.1\010_AutoProperties.dll
+D:\ITVDN\Base_OOP\010_AutoProperties\obj\Debug\netcoreapp3.1\010_AutoProperties.pdb
+D:\ITVDN\Base_OOP\010_AutoProperties\obj\Debug\netcoreapp3.1\010_AutoProperties.genruntimeconfig.cache

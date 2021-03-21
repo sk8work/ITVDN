@@ -1,0 +1,13 @@
+D:\ITVDN\Variables\Sizeof\bin\Debug\netcoreapp3.1\Sizeof.exe
+D:\ITVDN\Variables\Sizeof\bin\Debug\netcoreapp3.1\Sizeof.deps.json
+D:\ITVDN\Variables\Sizeof\bin\Debug\netcoreapp3.1\Sizeof.runtimeconfig.json
+D:\ITVDN\Variables\Sizeof\bin\Debug\netcoreapp3.1\Sizeof.runtimeconfig.dev.json
+D:\ITVDN\Variables\Sizeof\bin\Debug\netcoreapp3.1\Sizeof.dll
+D:\ITVDN\Variables\Sizeof\bin\Debug\netcoreapp3.1\Sizeof.pdb
+D:\ITVDN\Variables\Sizeof\obj\Debug\netcoreapp3.1\Sizeof.csprojAssemblyReference.cache
+D:\ITVDN\Variables\Sizeof\obj\Debug\netcoreapp3.1\Sizeof.AssemblyInfoInputs.cache
+D:\ITVDN\Variables\Sizeof\obj\Debug\netcoreapp3.1\Sizeof.AssemblyInfo.cs
+D:\ITVDN\Variables\Sizeof\obj\Debug\netcoreapp3.1\Sizeof.csproj.CoreCompileInputs.cache
+D:\ITVDN\Variables\Sizeof\obj\Debug\netcoreapp3.1\Sizeof.dll
+D:\ITVDN\Variables\Sizeof\obj\Debug\netcoreapp3.1\Sizeof.pdb
+D:\ITVDN\Variables\Sizeof\obj\Debug\netcoreapp3.1\Sizeof.genruntimeconfig.cache

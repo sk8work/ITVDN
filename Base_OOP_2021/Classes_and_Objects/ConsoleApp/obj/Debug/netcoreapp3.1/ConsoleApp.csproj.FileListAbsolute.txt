@@ -1,0 +1,4 @@
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache

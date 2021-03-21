@@ -1,0 +1,12 @@
+D:\ITVDN\Base_OOP\011_Classes\bin\Debug\netcoreapp3.1\011_Classes.exe
+D:\ITVDN\Base_OOP\011_Classes\bin\Debug\netcoreapp3.1\011_Classes.deps.json
+D:\ITVDN\Base_OOP\011_Classes\bin\Debug\netcoreapp3.1\011_Classes.runtimeconfig.json
+D:\ITVDN\Base_OOP\011_Classes\bin\Debug\netcoreapp3.1\011_Classes.runtimeconfig.dev.json
+D:\ITVDN\Base_OOP\011_Classes\bin\Debug\netcoreapp3.1\011_Classes.dll
+D:\ITVDN\Base_OOP\011_Classes\bin\Debug\netcoreapp3.1\011_Classes.pdb
+D:\ITVDN\Base_OOP\011_Classes\obj\Debug\netcoreapp3.1\011_Classes.AssemblyInfoInputs.cache
+D:\ITVDN\Base_OOP\011_Classes\obj\Debug\netcoreapp3.1\011_Classes.AssemblyInfo.cs
+D:\ITVDN\Base_OOP\011_Classes\obj\Debug\netcoreapp3.1\011_Classes.csproj.CoreCompileInputs.cache
+D:\ITVDN\Base_OOP\011_Classes\obj\Debug\netcoreapp3.1\011_Classes.dll
+D:\ITVDN\Base_OOP\011_Classes\obj\Debug\netcoreapp3.1\011_Classes.pdb
+D:\ITVDN\Base_OOP\011_Classes\obj\Debug\netcoreapp3.1\011_Classes.genruntimeconfig.cache

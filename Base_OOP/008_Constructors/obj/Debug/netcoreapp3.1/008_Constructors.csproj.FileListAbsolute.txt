@@ -1,0 +1,13 @@
+D:\ITVDN\Base_OOP\008_Constructors\bin\Debug\netcoreapp3.1\008_Constructors.exe
+D:\ITVDN\Base_OOP\008_Constructors\bin\Debug\netcoreapp3.1\008_Constructors.deps.json
+D:\ITVDN\Base_OOP\008_Constructors\bin\Debug\netcoreapp3.1\008_Constructors.runtimeconfig.json
+D:\ITVDN\Base_OOP\008_Constructors\bin\Debug\netcoreapp3.1\008_Constructors.runtimeconfig.dev.json
+D:\ITVDN\Base_OOP\008_Constructors\bin\Debug\netcoreapp3.1\008_Constructors.dll
+D:\ITVDN\Base_OOP\008_Constructors\bin\Debug\netcoreapp3.1\008_Constructors.pdb
+D:\ITVDN\Base_OOP\008_Constructors\obj\Debug\netcoreapp3.1\008_Constructors.csprojAssemblyReference.cache
+D:\ITVDN\Base_OOP\008_Constructors\obj\Debug\netcoreapp3.1\008_Constructors.AssemblyInfoInputs.cache
+D:\ITVDN\Base_OOP\008_Constructors\obj\Debug\netcoreapp3.1\008_Constructors.AssemblyInfo.cs
+D:\ITVDN\Base_OOP\008_Constructors\obj\Debug\netcoreapp3.1\008_Constructors.csproj.CoreCompileInputs.cache
+D:\ITVDN\Base_OOP\008_Constructors\obj\Debug\netcoreapp3.1\008_Constructors.dll
+D:\ITVDN\Base_OOP\008_Constructors\obj\Debug\netcoreapp3.1\008_Constructors.pdb
+D:\ITVDN\Base_OOP\008_Constructors\obj\Debug\netcoreapp3.1\008_Constructors.genruntimeconfig.cache

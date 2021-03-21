@@ -1,0 +1,16 @@
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\MyFirst_OOP_Program\bin\Debug\net5.0\MyFirst_OOP_Program.exe
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\MyFirst_OOP_Program\bin\Debug\net5.0\MyFirst_OOP_Program.deps.json
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\MyFirst_OOP_Program\bin\Debug\net5.0\MyFirst_OOP_Program.runtimeconfig.json
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\MyFirst_OOP_Program\bin\Debug\net5.0\MyFirst_OOP_Program.runtimeconfig.dev.json
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\MyFirst_OOP_Program\bin\Debug\net5.0\MyFirst_OOP_Program.dll
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\MyFirst_OOP_Program\bin\Debug\net5.0\ref\MyFirst_OOP_Program.dll
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\MyFirst_OOP_Program\bin\Debug\net5.0\MyFirst_OOP_Program.pdb
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\MyFirst_OOP_Program\obj\Debug\net5.0\MyFirst_OOP_Program.csprojAssemblyReference.cache
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\MyFirst_OOP_Program\obj\Debug\net5.0\MyFirst_OOP_Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\MyFirst_OOP_Program\obj\Debug\net5.0\MyFirst_OOP_Program.AssemblyInfoInputs.cache
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\MyFirst_OOP_Program\obj\Debug\net5.0\MyFirst_OOP_Program.AssemblyInfo.cs
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\MyFirst_OOP_Program\obj\Debug\net5.0\MyFirst_OOP_Program.csproj.CoreCompileInputs.cache
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\MyFirst_OOP_Program\obj\Debug\net5.0\MyFirst_OOP_Program.dll
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\MyFirst_OOP_Program\obj\Debug\net5.0\ref\MyFirst_OOP_Program.dll
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\MyFirst_OOP_Program\obj\Debug\net5.0\MyFirst_OOP_Program.pdb
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\MyFirst_OOP_Program\obj\Debug\net5.0\MyFirst_OOP_Program.genruntimeconfig.cache

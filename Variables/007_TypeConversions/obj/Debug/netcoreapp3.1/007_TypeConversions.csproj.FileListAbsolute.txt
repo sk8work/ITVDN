@@ -1,0 +1,12 @@
+D:\ITVDN\Variables\007_TypeConversions\bin\Debug\netcoreapp3.1\007_TypeConversions.exe
+D:\ITVDN\Variables\007_TypeConversions\bin\Debug\netcoreapp3.1\007_TypeConversions.deps.json
+D:\ITVDN\Variables\007_TypeConversions\bin\Debug\netcoreapp3.1\007_TypeConversions.runtimeconfig.json
+D:\ITVDN\Variables\007_TypeConversions\bin\Debug\netcoreapp3.1\007_TypeConversions.runtimeconfig.dev.json
+D:\ITVDN\Variables\007_TypeConversions\bin\Debug\netcoreapp3.1\007_TypeConversions.dll
+D:\ITVDN\Variables\007_TypeConversions\bin\Debug\netcoreapp3.1\007_TypeConversions.pdb
+D:\ITVDN\Variables\007_TypeConversions\obj\Debug\netcoreapp3.1\007_TypeConversions.AssemblyInfoInputs.cache
+D:\ITVDN\Variables\007_TypeConversions\obj\Debug\netcoreapp3.1\007_TypeConversions.AssemblyInfo.cs
+D:\ITVDN\Variables\007_TypeConversions\obj\Debug\netcoreapp3.1\007_TypeConversions.csproj.CoreCompileInputs.cache
+D:\ITVDN\Variables\007_TypeConversions\obj\Debug\netcoreapp3.1\007_TypeConversions.dll
+D:\ITVDN\Variables\007_TypeConversions\obj\Debug\netcoreapp3.1\007_TypeConversions.pdb
+D:\ITVDN\Variables\007_TypeConversions\obj\Debug\netcoreapp3.1\007_TypeConversions.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\ITVDN\Base_OOP\Lesson2\007_Association\bin\Debug\netcoreapp3.1\007_Association.exe
+D:\ITVDN\Base_OOP\Lesson2\007_Association\bin\Debug\netcoreapp3.1\007_Association.deps.json
+D:\ITVDN\Base_OOP\Lesson2\007_Association\bin\Debug\netcoreapp3.1\007_Association.runtimeconfig.json
+D:\ITVDN\Base_OOP\Lesson2\007_Association\bin\Debug\netcoreapp3.1\007_Association.runtimeconfig.dev.json
+D:\ITVDN\Base_OOP\Lesson2\007_Association\bin\Debug\netcoreapp3.1\007_Association.dll
+D:\ITVDN\Base_OOP\Lesson2\007_Association\bin\Debug\netcoreapp3.1\007_Association.pdb
+D:\ITVDN\Base_OOP\Lesson2\007_Association\obj\Debug\netcoreapp3.1\007_Association.csprojAssemblyReference.cache
+D:\ITVDN\Base_OOP\Lesson2\007_Association\obj\Debug\netcoreapp3.1\007_Association.AssemblyInfoInputs.cache
+D:\ITVDN\Base_OOP\Lesson2\007_Association\obj\Debug\netcoreapp3.1\007_Association.AssemblyInfo.cs
+D:\ITVDN\Base_OOP\Lesson2\007_Association\obj\Debug\netcoreapp3.1\007_Association.csproj.CoreCompileInputs.cache
+D:\ITVDN\Base_OOP\Lesson2\007_Association\obj\Debug\netcoreapp3.1\007_Association.dll
+D:\ITVDN\Base_OOP\Lesson2\007_Association\obj\Debug\netcoreapp3.1\007_Association.pdb
+D:\ITVDN\Base_OOP\Lesson2\007_Association\obj\Debug\netcoreapp3.1\007_Association.genruntimeconfig.cache

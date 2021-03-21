@@ -1,0 +1,12 @@
+D:\ITVDN\Base_OOP\Lesson3\013_Polymorph\bin\Debug\netcoreapp3.1\013_Polymorph.exe
+D:\ITVDN\Base_OOP\Lesson3\013_Polymorph\bin\Debug\netcoreapp3.1\013_Polymorph.deps.json
+D:\ITVDN\Base_OOP\Lesson3\013_Polymorph\bin\Debug\netcoreapp3.1\013_Polymorph.runtimeconfig.json
+D:\ITVDN\Base_OOP\Lesson3\013_Polymorph\bin\Debug\netcoreapp3.1\013_Polymorph.runtimeconfig.dev.json
+D:\ITVDN\Base_OOP\Lesson3\013_Polymorph\bin\Debug\netcoreapp3.1\013_Polymorph.dll
+D:\ITVDN\Base_OOP\Lesson3\013_Polymorph\bin\Debug\netcoreapp3.1\013_Polymorph.pdb
+D:\ITVDN\Base_OOP\Lesson3\013_Polymorph\obj\Debug\netcoreapp3.1\013_Polymorph.AssemblyInfoInputs.cache
+D:\ITVDN\Base_OOP\Lesson3\013_Polymorph\obj\Debug\netcoreapp3.1\013_Polymorph.AssemblyInfo.cs
+D:\ITVDN\Base_OOP\Lesson3\013_Polymorph\obj\Debug\netcoreapp3.1\013_Polymorph.csproj.CoreCompileInputs.cache
+D:\ITVDN\Base_OOP\Lesson3\013_Polymorph\obj\Debug\netcoreapp3.1\013_Polymorph.dll
+D:\ITVDN\Base_OOP\Lesson3\013_Polymorph\obj\Debug\netcoreapp3.1\013_Polymorph.pdb
+D:\ITVDN\Base_OOP\Lesson3\013_Polymorph\obj\Debug\netcoreapp3.1\013_Polymorph.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\ConsoleApp\bin\Debug\net5.0\ref\ConsoleApp.dll
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csprojAssemblyReference.cache
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+D:\ITVDN\Base_OOP_2021\Classes_and_Objects\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache

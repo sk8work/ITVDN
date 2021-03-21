@@ -1,0 +1,13 @@
+D:\ITVDN\Base_OOP\HW\Lesson1\ConsoleApp1\bin\Debug\netcoreapp3.1\hw1.exe
+D:\ITVDN\Base_OOP\HW\Lesson1\ConsoleApp1\bin\Debug\netcoreapp3.1\hw1.deps.json
+D:\ITVDN\Base_OOP\HW\Lesson1\ConsoleApp1\bin\Debug\netcoreapp3.1\hw1.runtimeconfig.json
+D:\ITVDN\Base_OOP\HW\Lesson1\ConsoleApp1\bin\Debug\netcoreapp3.1\hw1.runtimeconfig.dev.json
+D:\ITVDN\Base_OOP\HW\Lesson1\ConsoleApp1\bin\Debug\netcoreapp3.1\hw1.dll
+D:\ITVDN\Base_OOP\HW\Lesson1\ConsoleApp1\bin\Debug\netcoreapp3.1\hw1.pdb
+D:\ITVDN\Base_OOP\HW\Lesson1\ConsoleApp1\obj\Debug\netcoreapp3.1\hw1.csprojAssemblyReference.cache
+D:\ITVDN\Base_OOP\HW\Lesson1\ConsoleApp1\obj\Debug\netcoreapp3.1\hw1.AssemblyInfoInputs.cache
+D:\ITVDN\Base_OOP\HW\Lesson1\ConsoleApp1\obj\Debug\netcoreapp3.1\hw1.AssemblyInfo.cs
+D:\ITVDN\Base_OOP\HW\Lesson1\ConsoleApp1\obj\Debug\netcoreapp3.1\hw1.csproj.CoreCompileInputs.cache
+D:\ITVDN\Base_OOP\HW\Lesson1\ConsoleApp1\obj\Debug\netcoreapp3.1\hw1.dll
+D:\ITVDN\Base_OOP\HW\Lesson1\ConsoleApp1\obj\Debug\netcoreapp3.1\hw1.pdb
+D:\ITVDN\Base_OOP\HW\Lesson1\ConsoleApp1\obj\Debug\netcoreapp3.1\hw1.genruntimeconfig.cache

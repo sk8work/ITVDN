@@ -1,0 +1,13 @@
+D:\ITVDN\MyProgram\MusicalScale\bin\Debug\netcoreapp3.1\MusicalScale.exe
+D:\ITVDN\MyProgram\MusicalScale\bin\Debug\netcoreapp3.1\MusicalScale.deps.json
+D:\ITVDN\MyProgram\MusicalScale\bin\Debug\netcoreapp3.1\MusicalScale.runtimeconfig.json
+D:\ITVDN\MyProgram\MusicalScale\bin\Debug\netcoreapp3.1\MusicalScale.runtimeconfig.dev.json
+D:\ITVDN\MyProgram\MusicalScale\bin\Debug\netcoreapp3.1\MusicalScale.dll
+D:\ITVDN\MyProgram\MusicalScale\bin\Debug\netcoreapp3.1\MusicalScale.pdb
+D:\ITVDN\MyProgram\MusicalScale\obj\Debug\netcoreapp3.1\MusicalScale.csprojAssemblyReference.cache
+D:\ITVDN\MyProgram\MusicalScale\obj\Debug\netcoreapp3.1\MusicalScale.AssemblyInfoInputs.cache
+D:\ITVDN\MyProgram\MusicalScale\obj\Debug\netcoreapp3.1\MusicalScale.AssemblyInfo.cs
+D:\ITVDN\MyProgram\MusicalScale\obj\Debug\netcoreapp3.1\MusicalScale.csproj.CoreCompileInputs.cache
+D:\ITVDN\MyProgram\MusicalScale\obj\Debug\netcoreapp3.1\MusicalScale.dll
+D:\ITVDN\MyProgram\MusicalScale\obj\Debug\netcoreapp3.1\MusicalScale.pdb
+D:\ITVDN\MyProgram\MusicalScale\obj\Debug\netcoreapp3.1\MusicalScale.genruntimeconfig.cache

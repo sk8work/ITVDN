@@ -1,0 +1,13 @@
+D:\ITVDN\Base_OOP\Lesson3\005_Inheritance\bin\Debug\netcoreapp3.1\005_Inheritance.exe
+D:\ITVDN\Base_OOP\Lesson3\005_Inheritance\bin\Debug\netcoreapp3.1\005_Inheritance.deps.json
+D:\ITVDN\Base_OOP\Lesson3\005_Inheritance\bin\Debug\netcoreapp3.1\005_Inheritance.runtimeconfig.json
+D:\ITVDN\Base_OOP\Lesson3\005_Inheritance\bin\Debug\netcoreapp3.1\005_Inheritance.runtimeconfig.dev.json
+D:\ITVDN\Base_OOP\Lesson3\005_Inheritance\bin\Debug\netcoreapp3.1\005_Inheritance.dll
+D:\ITVDN\Base_OOP\Lesson3\005_Inheritance\bin\Debug\netcoreapp3.1\005_Inheritance.pdb
+D:\ITVDN\Base_OOP\Lesson3\005_Inheritance\obj\Debug\netcoreapp3.1\005_Inheritance.csprojAssemblyReference.cache
+D:\ITVDN\Base_OOP\Lesson3\005_Inheritance\obj\Debug\netcoreapp3.1\005_Inheritance.AssemblyInfoInputs.cache
+D:\ITVDN\Base_OOP\Lesson3\005_Inheritance\obj\Debug\netcoreapp3.1\005_Inheritance.AssemblyInfo.cs
+D:\ITVDN\Base_OOP\Lesson3\005_Inheritance\obj\Debug\netcoreapp3.1\005_Inheritance.csproj.CoreCompileInputs.cache
+D:\ITVDN\Base_OOP\Lesson3\005_Inheritance\obj\Debug\netcoreapp3.1\005_Inheritance.dll
+D:\ITVDN\Base_OOP\Lesson3\005_Inheritance\obj\Debug\netcoreapp3.1\005_Inheritance.pdb
+D:\ITVDN\Base_OOP\Lesson3\005_Inheritance\obj\Debug\netcoreapp3.1\005_Inheritance.genruntimeconfig.cache
