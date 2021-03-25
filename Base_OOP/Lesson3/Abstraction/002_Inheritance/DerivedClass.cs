@@ -6,11 +6,11 @@ namespace _002_Inheritance
 {
     class DerivedClass : BaseClass
     {
-        // Конструктор
+        // Constructor.
         public DerivedClass()
         {
             publicField = "DerivedClass.publicField";
-            protectedField = "DerivedClass.protetedField";
+            protectedField = "DerivedClass.protectedField";
         }
     }
 }

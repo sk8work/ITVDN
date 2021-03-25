@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i80GBSnQFIxB5Ou33I3tHv+MhUDroPDkcXmkWMdkxhpdN3XUwJNqhhmgxD5F6Uy47aZrz4vXx85goQUn8MZ/jA==",
+  "dgSpecHash": "g2TDW4LH6LYZxb/b1USIzHSxR6gS5B3dG6uyFtv6B35YuFzxla9nEm80c7j3cwWeWFybzQA8w8KS90/li3/tJQ==",
   "success": true,
-  "projectFilePath": "D:\\ITVDN\\Base_OOP\\Lesson3\\012_SealedMethods\\012_SealedMethods.csproj",
+  "projectFilePath": "D:\\ITVDN\\Base_OOP\\Lesson3\\Abstraction\\012_SealedMethods\\012_SealedMethods.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

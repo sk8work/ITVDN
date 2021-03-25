@@ -1,6 +1,6 @@
 ﻿using System;
 
-// Герметизированные классы (запечатанные классы)
+// Sealed classes
 
 namespace _011_Sealed
 {
@@ -10,11 +10,10 @@ namespace _011_Sealed
         public int y;
     }
 
-    // Попытка наследования от SealedClass приводит к ошибке компилятора.
+    // Trying to inheriting from SealedClass returns ERROR
 
-    class DerivedClass //: SealedClass  // Error
+    class DerivedClass //: SealedClass
     {
-
     }
     class Program
     {
@@ -22,11 +21,11 @@ namespace _011_Sealed
         {
             SealedClass instance = new SealedClass();
             instance.x = 100;
-            instance.y = 200;
+            instance.x = 200;
 
             Console.WriteLine("x = {0}, y = {1}", instance.x, instance.y);
 
-            // Delay
+            //Delay
             Console.ReadKey();
         }
     }

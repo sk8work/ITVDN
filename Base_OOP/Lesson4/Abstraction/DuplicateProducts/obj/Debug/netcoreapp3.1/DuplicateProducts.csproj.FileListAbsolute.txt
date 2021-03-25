@@ -1,0 +1,12 @@
+D:\ITVDN\Base_OOP\Lesson4\Abstraction\DuplicateProducts\bin\Debug\netcoreapp3.1\DuplicateProducts.exe
+D:\ITVDN\Base_OOP\Lesson4\Abstraction\DuplicateProducts\bin\Debug\netcoreapp3.1\DuplicateProducts.deps.json
+D:\ITVDN\Base_OOP\Lesson4\Abstraction\DuplicateProducts\bin\Debug\netcoreapp3.1\DuplicateProducts.runtimeconfig.json
+D:\ITVDN\Base_OOP\Lesson4\Abstraction\DuplicateProducts\bin\Debug\netcoreapp3.1\DuplicateProducts.runtimeconfig.dev.json
+D:\ITVDN\Base_OOP\Lesson4\Abstraction\DuplicateProducts\bin\Debug\netcoreapp3.1\DuplicateProducts.dll
+D:\ITVDN\Base_OOP\Lesson4\Abstraction\DuplicateProducts\bin\Debug\netcoreapp3.1\DuplicateProducts.pdb
+D:\ITVDN\Base_OOP\Lesson4\Abstraction\DuplicateProducts\obj\Debug\netcoreapp3.1\DuplicateProducts.AssemblyInfoInputs.cache
+D:\ITVDN\Base_OOP\Lesson4\Abstraction\DuplicateProducts\obj\Debug\netcoreapp3.1\DuplicateProducts.AssemblyInfo.cs
+D:\ITVDN\Base_OOP\Lesson4\Abstraction\DuplicateProducts\obj\Debug\netcoreapp3.1\DuplicateProducts.csproj.CoreCompileInputs.cache
+D:\ITVDN\Base_OOP\Lesson4\Abstraction\DuplicateProducts\obj\Debug\netcoreapp3.1\DuplicateProducts.dll
+D:\ITVDN\Base_OOP\Lesson4\Abstraction\DuplicateProducts\obj\Debug\netcoreapp3.1\DuplicateProducts.pdb
+D:\ITVDN\Base_OOP\Lesson4\Abstraction\DuplicateProducts\obj\Debug\netcoreapp3.1\DuplicateProducts.genruntimeconfig.cache

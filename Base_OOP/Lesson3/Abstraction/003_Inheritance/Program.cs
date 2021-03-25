@@ -1,6 +1,6 @@
 ﻿using System;
 
-// Наследование
+// Inheritance
 
 namespace _003_Constructors
 {
@@ -13,7 +13,7 @@ namespace _003_Constructors
             Console.WriteLine(instance.baseNumber);
             Console.WriteLine(instance.derivedField);
 
-            // Delay
+            //Delay
             Console.ReadKey();
         }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HXF/WiF9gNJ22EZcTNfzXknEPq0XaPtGoIxOeh0eMIjq6QPgXjTd9abU3C+04QkFBIldnM0kZ6GMqLBe3QX84g==",
+  "dgSpecHash": "oby/eMILyADVidkgD6OF/qkWU1IWhxOXVArdoMJV1gGsMfQxoKCitb3hgvqCjnhqDRC/m7RA/s4PZbtmTmDaGQ==",
   "success": true,
-  "projectFilePath": "D:\\ITVDN\\Base_OOP\\Lesson3\\004_Constructors\\004_Constructors.csproj",
+  "projectFilePath": "D:\\ITVDN\\Base_OOP\\Lesson3\\Abstraction\\004_Constructors\\004_Constructors.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

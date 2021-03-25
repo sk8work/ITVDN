@@ -1,18 +1,18 @@
 ﻿using System;
 
-// Наследование
+// Inheritance
 
 namespace _002_Inheritance
 {
     class BaseClass
     {
-        // Поля
+        // Fields
 
         public string publicField = "BaseClass.publicField";
         private string privateField = "BaseClass.privateField";
         protected string protectedField = "BaseClass.protectedField";
 
-        // Методы
+        // Methods
 
         public void Show()
         {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IWR8U1tuefyxqvzNGIiP5afPcYYBoKEKma2t5hf5rUncbLow30OJNE/P9QLJt1UmlUwIjnpbbwgC+evyJR36Ug==",
+  "dgSpecHash": "ZG5SupL5rIIZXt9MVioi2pEkV1CtprY9VpCOYQfoMVXKdquazelQgbgmP4i4k+Aiu2uw8pv2Vooh+T2rJA3w1w==",
   "success": true,
-  "projectFilePath": "D:\\ITVDN\\Base_OOP\\Lesson3\\003_Inheritance\\003_Constructors.csproj",
+  "projectFilePath": "D:\\ITVDN\\Base_OOP\\Lesson3\\Abstraction\\003_Inheritance\\003_Constructors.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

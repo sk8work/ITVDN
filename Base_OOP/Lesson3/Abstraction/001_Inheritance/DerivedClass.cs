@@ -6,10 +6,10 @@ namespace _001_Inheritance
 {
     class DerivedClass : BaseClass
     {
-        // Конструктор
+        // Constructor.
         public DerivedClass()
         {
-            // Изменяем все доступные поля, унаследованные от базового класса
+            // Changing all fields inherited from BaseClass
 
             publicField = "DerivedClass.publicField";
             protectedField = "DerivedClass.protectedField";

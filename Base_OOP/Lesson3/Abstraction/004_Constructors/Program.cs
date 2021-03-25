@@ -1,5 +1,7 @@
 ﻿using System;
 
+// Inheritance
+
 namespace _004_Constructors
 {
     class Program

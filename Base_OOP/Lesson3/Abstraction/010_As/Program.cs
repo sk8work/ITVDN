@@ -1,6 +1,6 @@
 ﻿using System;
 
-// Cast с использованием опреатора as.
+// Cast using 'as'
 
 namespace _010_As
 {
@@ -14,7 +14,7 @@ namespace _010_As
             // UpCast
             BaseClass instanceUp = instance as BaseClass;
             if (instanceUp != null)
-                instance.Method();
+                instanceUp.Method();
 
             // DownCast
             DerivedClass instanceDown = instanceUp as DerivedClass;

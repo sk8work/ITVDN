@@ -1,7 +1,5 @@
 ﻿using System;
 
-// Наследование
-
 namespace _002_Inheritance
 {
     class Program
@@ -11,10 +9,9 @@ namespace _002_Inheritance
             DerivedClass instance = new DerivedClass();
 
             Console.WriteLine(instance.publicField);
-
             instance.Show();
 
-            // Delay
+            // Delay 
             Console.ReadKey();
         }
     }

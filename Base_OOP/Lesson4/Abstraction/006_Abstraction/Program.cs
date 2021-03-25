@@ -44,6 +44,8 @@ namespace _006_Abstraction
 
             insance.AbstractMethod();
 
+            Console.WriteLine(2 * Math.Pow(10, 5));
+
             // Delay
             Console.ReadKey();
         }

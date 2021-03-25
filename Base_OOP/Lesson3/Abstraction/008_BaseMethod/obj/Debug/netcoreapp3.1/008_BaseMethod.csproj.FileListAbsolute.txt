@@ -1,0 +1,12 @@
+D:\ITVDN\Base_OOP\Lesson3\Abstraction\008_BaseMethod\bin\Debug\netcoreapp3.1\008_BaseMethod.exe
+D:\ITVDN\Base_OOP\Lesson3\Abstraction\008_BaseMethod\bin\Debug\netcoreapp3.1\008_BaseMethod.deps.json
+D:\ITVDN\Base_OOP\Lesson3\Abstraction\008_BaseMethod\bin\Debug\netcoreapp3.1\008_BaseMethod.runtimeconfig.json
+D:\ITVDN\Base_OOP\Lesson3\Abstraction\008_BaseMethod\bin\Debug\netcoreapp3.1\008_BaseMethod.runtimeconfig.dev.json
+D:\ITVDN\Base_OOP\Lesson3\Abstraction\008_BaseMethod\bin\Debug\netcoreapp3.1\008_BaseMethod.dll
+D:\ITVDN\Base_OOP\Lesson3\Abstraction\008_BaseMethod\bin\Debug\netcoreapp3.1\008_BaseMethod.pdb
+D:\ITVDN\Base_OOP\Lesson3\Abstraction\008_BaseMethod\obj\Debug\netcoreapp3.1\008_BaseMethod.AssemblyInfoInputs.cache
+D:\ITVDN\Base_OOP\Lesson3\Abstraction\008_BaseMethod\obj\Debug\netcoreapp3.1\008_BaseMethod.AssemblyInfo.cs
+D:\ITVDN\Base_OOP\Lesson3\Abstraction\008_BaseMethod\obj\Debug\netcoreapp3.1\008_BaseMethod.csproj.CoreCompileInputs.cache
+D:\ITVDN\Base_OOP\Lesson3\Abstraction\008_BaseMethod\obj\Debug\netcoreapp3.1\008_BaseMethod.dll
+D:\ITVDN\Base_OOP\Lesson3\Abstraction\008_BaseMethod\obj\Debug\netcoreapp3.1\008_BaseMethod.pdb
+D:\ITVDN\Base_OOP\Lesson3\Abstraction\008_BaseMethod\obj\Debug\netcoreapp3.1\008_BaseMethod.genruntimeconfig.cache

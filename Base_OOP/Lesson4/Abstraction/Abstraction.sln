@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Abstraction", "ConsoleApp1\001_Abstraction.csproj", "{529D2222-E01B-4B4E-A7ED-6930BF0143FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Abstraction", "ConsoleApp1\001_Abstraction.csproj", "{529D2222-E01B-4B4E-A7ED-6930BF0143FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Abstraction", "002_Abstraction\002_Abstraction.csproj", "{40B50278-6A85-42A2-9A5D-886530CB2444}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Abstraction", "002_Abstraction\002_Abstraction.csproj", "{40B50278-6A85-42A2-9A5D-886530CB2444}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Abstraction", "003_Abstraction\003_Abstraction.csproj", "{EDFF6E51-6E76-47D0-8217-BE54EF27E7E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_Abstraction", "003_Abstraction\003_Abstraction.csproj", "{EDFF6E51-6E76-47D0-8217-BE54EF27E7E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Abstraction", "004_Abstraction\004_Abstraction.csproj", "{4CDF5A3C-190E-4C93-995E-55C635EDB3C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004_Abstraction", "004_Abstraction\004_Abstraction.csproj", "{4CDF5A3C-190E-4C93-995E-55C635EDB3C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_Abstraction", "006_Abstraction\005_Abstraction.csproj", "{BE47D619-53C9-412A-A2E8-42939EA201D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005_Abstraction", "006_Abstraction\005_Abstraction.csproj", "{BE47D619-53C9-412A-A2E8-42939EA201D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Abstraction", "006_Abstraction\006_Abstraction.csproj", "{91BEB76B-365F-45B8-B682-57181E27371C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006_Abstraction", "006_Abstraction\006_Abstraction.csproj", "{91BEB76B-365F-45B8-B682-57181E27371C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuplicateProducts", "DuplicateProducts\DuplicateProducts.csproj", "{3DD75D0F-3321-437E-AEE0-744D68BA867F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{91BEB76B-365F-45B8-B682-57181E27371C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91BEB76B-365F-45B8-B682-57181E27371C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91BEB76B-365F-45B8-B682-57181E27371C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DD75D0F-3321-437E-AEE0-744D68BA867F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DD75D0F-3321-437E-AEE0-744D68BA867F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DD75D0F-3321-437E-AEE0-744D68BA867F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DD75D0F-3321-437E-AEE0-744D68BA867F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

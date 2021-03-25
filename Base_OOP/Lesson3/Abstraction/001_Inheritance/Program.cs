@@ -17,7 +17,7 @@ namespace _001_Inheritance
     {
         static void Main(string[] args)
         {
-            DerivedClass instance = new DerivedClass();
+            BaseClass instance = new DerivedClass();
 
             Console.WriteLine(instance.publicField);
 

@@ -8,20 +8,14 @@ namespace _004_Constructors
     {
         public int derivedField;
 
-        // Конструктор по-умолчанию
-        public DerivedClass()
-        {
+        // Constructor
+        public DerivedClass() { }
 
-        }
-
-        // Пользовательский конструктор
-        // Вызывается пользовательский конструктор базового класса,
-        // при этом не нужно присваивать значения унаследованным
-        // членам в конструкторе производного класса
+        // UserConstructor
         public DerivedClass(int number1, int number2)
-            : base(number1)
+            :base(number1)
         {
-            derivedField = number2;
+            derivedField = number1;
         }
     }
 }

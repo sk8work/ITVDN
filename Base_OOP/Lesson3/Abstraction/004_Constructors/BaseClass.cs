@@ -2,19 +2,18 @@
 using System.Collections.Generic;
 using System.Text;
 
+// Inheritance
+
 namespace _004_Constructors
 {
     class BaseClass
     {
         public int baseNumber;
-        
-        // Конструктор по-умолчанию
-        public BaseClass()
-        {
 
-        }
+        // Constructor
+        public BaseClass() { }
 
-        // Пользовательский конструктор
+        // User Constructor
         public BaseClass(int number)
         {
             this.baseNumber = number;

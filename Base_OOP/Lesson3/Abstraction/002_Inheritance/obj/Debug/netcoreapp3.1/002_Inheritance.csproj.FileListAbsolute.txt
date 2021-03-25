@@ -11,3 +11,16 @@ D:\ITVDN\Base_OOP\Lesson3\002_Inheritance\obj\Debug\netcoreapp3.1\002_Inheritanc
 D:\ITVDN\Base_OOP\Lesson3\002_Inheritance\obj\Debug\netcoreapp3.1\002_Inheritance.dll
 D:\ITVDN\Base_OOP\Lesson3\002_Inheritance\obj\Debug\netcoreapp3.1\002_Inheritance.pdb
 D:\ITVDN\Base_OOP\Lesson3\002_Inheritance\obj\Debug\netcoreapp3.1\002_Inheritance.genruntimeconfig.cache
+D:\ITVDN\Base_OOP\Lesson3\Abstraction\002_Inheritance\bin\Debug\netcoreapp3.1\002_Inheritance.exe
+D:\ITVDN\Base_OOP\Lesson3\Abstraction\002_Inheritance\bin\Debug\netcoreapp3.1\002_Inheritance.deps.json
+D:\ITVDN\Base_OOP\Lesson3\Abstraction\002_Inheritance\bin\Debug\netcoreapp3.1\002_Inheritance.runtimeconfig.json
+D:\ITVDN\Base_OOP\Lesson3\Abstraction\002_Inheritance\bin\Debug\netcoreapp3.1\002_Inheritance.runtimeconfig.dev.json
+D:\ITVDN\Base_OOP\Lesson3\Abstraction\002_Inheritance\bin\Debug\netcoreapp3.1\002_Inheritance.dll
+D:\ITVDN\Base_OOP\Lesson3\Abstraction\002_Inheritance\bin\Debug\netcoreapp3.1\002_Inheritance.pdb
+D:\ITVDN\Base_OOP\Lesson3\Abstraction\002_Inheritance\obj\Debug\netcoreapp3.1\002_Inheritance.csprojAssemblyReference.cache
+D:\ITVDN\Base_OOP\Lesson3\Abstraction\002_Inheritance\obj\Debug\netcoreapp3.1\002_Inheritance.AssemblyInfoInputs.cache
+D:\ITVDN\Base_OOP\Lesson3\Abstraction\002_Inheritance\obj\Debug\netcoreapp3.1\002_Inheritance.AssemblyInfo.cs
+D:\ITVDN\Base_OOP\Lesson3\Abstraction\002_Inheritance\obj\Debug\netcoreapp3.1\002_Inheritance.csproj.CoreCompileInputs.cache
+D:\ITVDN\Base_OOP\Lesson3\Abstraction\002_Inheritance\obj\Debug\netcoreapp3.1\002_Inheritance.dll
+D:\ITVDN\Base_OOP\Lesson3\Abstraction\002_Inheritance\obj\Debug\netcoreapp3.1\002_Inheritance.pdb
+D:\ITVDN\Base_OOP\Lesson3\Abstraction\002_Inheritance\obj\Debug\netcoreapp3.1\002_Inheritance.genruntimeconfig.cache

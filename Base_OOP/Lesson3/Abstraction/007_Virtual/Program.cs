@@ -1,22 +1,20 @@
 ﻿using System;
 
-// Приведение к базовому тиау
-
 namespace _007_Virtual
 {
     class Program
     {
         static void Main(string[] args)
         {
-            DerivedClass instance = new DerivedClass();
+            DerivadClass instance = new DerivadClass();
             instance.Method();
 
-            // Upcast
+            // UpCast
             BaseClass instanceUp = instance;
             instanceUp.Method();
 
-            // Downcast
-            DerivedClass instanceDown = (DerivedClass)instanceUp;
+            // DownCast
+            DerivadClass instanceDown = (DerivadClass)instanceUp;
             instanceDown.Method();
 
             // Delay

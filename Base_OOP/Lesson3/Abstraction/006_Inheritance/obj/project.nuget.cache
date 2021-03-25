@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "frcXBSNVPPwWGfLnghIWvMb5gjWVPvVfj6m8O07AOVppoA97HAEeMYAMJcsk53BxuZypQL9F1KiV2I+KpYDXsw==",
+  "dgSpecHash": "ADLTNgqD4Yyf4Y9Efq13DDdU6kLLWBJgt3g0leypUrwMuQqSwfdJ3Q4dn2q7dT5oT+yMKkV308mn60NS9k3vbQ==",
   "success": true,
-  "projectFilePath": "D:\\ITVDN\\Base_OOP\\Lesson3\\006_Inheritance\\006_Inheritance.csproj",
+  "projectFilePath": "D:\\ITVDN\\Base_OOP\\Lesson3\\Abstraction\\006_Inheritance\\006_Inheritance.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

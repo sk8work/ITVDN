@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jpKzjA3LlL8zX1btQRTJvomBPrOgWotARnEWfkIeohm04QfeF8XmqhoxpNOOcKMVwJT8xCz//5LEw5z1K/E+eg==",
+  "dgSpecHash": "m3bq0OHho8SmEljZD4aYXWXtKkzaT4E9/aRSWXoySmVhnH03v89OfroQqkcZrxGBZG/BtCBttLBBhehdx3cE7g==",
   "success": true,
-  "projectFilePath": "D:\\ITVDN\\Base_OOP\\Lesson3\\011_Sealed\\011_Sealed.csproj",
+  "projectFilePath": "D:\\ITVDN\\Base_OOP\\Lesson3\\Abstraction\\011_Sealed\\011_Sealed.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

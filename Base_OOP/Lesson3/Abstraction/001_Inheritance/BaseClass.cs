@@ -6,15 +6,15 @@ namespace _001_Inheritance
 {
     class BaseClass
     {
-        // Поля
+        // Fields
 
-        // Открытое поле
+        // Open field
         public string publicField = "BaseClass.publicField";
 
-        // Закрытое поле
-        private string privateField = "BaseClass.privateField";
+        // Closed field.
+        private string privatField = "BaseClass.privateField";
 
-        // Защищенное поле
+        // Proteted field.
         protected string protectedField = "BaseClass.protectedField";
     }
 }

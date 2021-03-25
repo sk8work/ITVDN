@@ -8,7 +8,7 @@ namespace _006_Inheritance
     {
         public void Method()
         {
-            Console.WriteLine("Method from BaseClass");
+            Console.WriteLine("Method fron BaseClass");
         }
     }
 }
