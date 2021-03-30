@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ITVDN\\Base_OOP\\Lesson4\\Abstraction\\006_Abstraction\\005_Abstraction.csproj",
-      "projectName": "005_Abstraction",
-      "projectPath": "D:\\ITVDN\\Base_OOP\\Lesson4\\Abstraction\\006_Abstraction\\005_Abstraction.csproj",
+      "projectUniqueName": "D:\\ITVDN\\Base_OOP\\Lesson4\\Abstraction\\006_Abstraction\\006_Abstraction.csproj",
+      "projectName": "006_Abstraction",
+      "projectPath": "D:\\ITVDN\\Base_OOP\\Lesson4\\Abstraction\\006_Abstraction\\006_Abstraction.csproj",
       "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
       "outputPath": "D:\\ITVDN\\Base_OOP\\Lesson4\\Abstraction\\006_Abstraction\\obj\\",
       "projectStyle": "PackageReference",
