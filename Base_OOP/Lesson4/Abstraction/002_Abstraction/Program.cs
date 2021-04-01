@@ -9,7 +9,7 @@ namespace _002_Abstraction
     {
         public void Operation()
         {
-            Console.WriteLine("ConcteteClassA.Operation");
+            Console.WriteLine("ConcreteClassA.Operation");
         }
     }
 

@@ -4,24 +4,22 @@ namespace _004_Abstraction
 {
     abstract class AbstractBaseClass
     {
-        // 1. 
-        // Обычный метод передается производному классу как при
-        // наследовании от крнкретного класса
+        // 1.
+        // Обычный метод передается производному классу как при наследовании от конкретного класса.
         public void SimpleMethod()
         {
-            Console.WriteLine("AbstractBaseClass.SimpleMethod");
+            Console.WriteLine("AbstractBaseClass.SimpleMethod()");
         }
 
         // 2.
-        // Виртууальный метод передается производному классу как при
-        // наследовании от конкретного класса
+        // Виртуальный метод передается производному классу как при наследовании от конкретного класса
         virtual public void VirtualMethod()
         {
-            Console.WriteLine("AbstractBaseClass.VirtualMethod");
+            Console.WriteLine("AbstractBaseClass.VirtualMethod()");
         }
 
         // 3.
-        // Абстрактный метод - реализуется в производном классе
+        // Абстрактный класс реализуется в конкретном классе
         abstract public void AbstractMethod();
     }
 

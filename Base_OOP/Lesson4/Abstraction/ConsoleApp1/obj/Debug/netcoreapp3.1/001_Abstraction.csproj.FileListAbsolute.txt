@@ -10,3 +10,4 @@ D:\ITVDN\Base_OOP\Lesson4\Abstraction\ConsoleApp1\obj\Debug\netcoreapp3.1\001_Ab
 D:\ITVDN\Base_OOP\Lesson4\Abstraction\ConsoleApp1\obj\Debug\netcoreapp3.1\001_Abstraction.dll
 D:\ITVDN\Base_OOP\Lesson4\Abstraction\ConsoleApp1\obj\Debug\netcoreapp3.1\001_Abstraction.pdb
 D:\ITVDN\Base_OOP\Lesson4\Abstraction\ConsoleApp1\obj\Debug\netcoreapp3.1\001_Abstraction.genruntimeconfig.cache
+D:\ITVDN\Base_OOP\Lesson4\Abstraction\ConsoleApp1\obj\Debug\netcoreapp3.1\001_Abstraction.csprojAssemblyReference.cache

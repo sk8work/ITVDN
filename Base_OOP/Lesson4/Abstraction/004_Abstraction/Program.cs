@@ -2,7 +2,6 @@
 
 namespace _004_Abstraction
 {
-   
     class Program
     {
         static void Main(string[] args)
@@ -13,7 +12,7 @@ namespace _004_Abstraction
             instance.VirtualMethod();
             instance.AbstractMethod();
 
-            // Delay
+            //Delay
             Console.ReadKey();
         }
     }

@@ -1,0 +1,16 @@
+D:\ITVDN\Base_OOP\Lesson4\Interfaces\Interfaces\003_Interfaces\bin\Debug\net5.0\003_Interfaces.exe
+D:\ITVDN\Base_OOP\Lesson4\Interfaces\Interfaces\003_Interfaces\bin\Debug\net5.0\003_Interfaces.deps.json
+D:\ITVDN\Base_OOP\Lesson4\Interfaces\Interfaces\003_Interfaces\bin\Debug\net5.0\003_Interfaces.runtimeconfig.json
+D:\ITVDN\Base_OOP\Lesson4\Interfaces\Interfaces\003_Interfaces\bin\Debug\net5.0\003_Interfaces.runtimeconfig.dev.json
+D:\ITVDN\Base_OOP\Lesson4\Interfaces\Interfaces\003_Interfaces\bin\Debug\net5.0\003_Interfaces.dll
+D:\ITVDN\Base_OOP\Lesson4\Interfaces\Interfaces\003_Interfaces\bin\Debug\net5.0\ref\003_Interfaces.dll
+D:\ITVDN\Base_OOP\Lesson4\Interfaces\Interfaces\003_Interfaces\bin\Debug\net5.0\003_Interfaces.pdb
+D:\ITVDN\Base_OOP\Lesson4\Interfaces\Interfaces\003_Interfaces\obj\Debug\net5.0\003_Interfaces.csprojAssemblyReference.cache
+D:\ITVDN\Base_OOP\Lesson4\Interfaces\Interfaces\003_Interfaces\obj\Debug\net5.0\003_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITVDN\Base_OOP\Lesson4\Interfaces\Interfaces\003_Interfaces\obj\Debug\net5.0\003_Interfaces.AssemblyInfoInputs.cache
+D:\ITVDN\Base_OOP\Lesson4\Interfaces\Interfaces\003_Interfaces\obj\Debug\net5.0\003_Interfaces.AssemblyInfo.cs
+D:\ITVDN\Base_OOP\Lesson4\Interfaces\Interfaces\003_Interfaces\obj\Debug\net5.0\003_Interfaces.csproj.CoreCompileInputs.cache
+D:\ITVDN\Base_OOP\Lesson4\Interfaces\Interfaces\003_Interfaces\obj\Debug\net5.0\003_Interfaces.dll
+D:\ITVDN\Base_OOP\Lesson4\Interfaces\Interfaces\003_Interfaces\obj\Debug\net5.0\ref\003_Interfaces.dll
+D:\ITVDN\Base_OOP\Lesson4\Interfaces\Interfaces\003_Interfaces\obj\Debug\net5.0\003_Interfaces.pdb
+D:\ITVDN\Base_OOP\Lesson4\Interfaces\Interfaces\003_Interfaces\obj\Debug\net5.0\003_Interfaces.genruntimeconfig.cache

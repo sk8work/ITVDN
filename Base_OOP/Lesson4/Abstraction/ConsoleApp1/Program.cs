@@ -1,17 +1,16 @@
 ﻿using System;
 
-// Абстрактный класс
+// Abstract class
 
 namespace _001_Abstraction
 {
-    // Абстрактный класс.
-    abstract class AbstractClass
+   // Abstract class
+   abstract class AbstractClass
     {
-        public abstract void Method(); // у абстрактных методов нет тела
-        //public virtual void Method() { }; // на самом деле у нас так!!
+        public abstract void Method();
     }
 
-    // Конкретный класс
+    // Concrete class
     class ConcreteClass : AbstractClass
     {
         public override void Method()
