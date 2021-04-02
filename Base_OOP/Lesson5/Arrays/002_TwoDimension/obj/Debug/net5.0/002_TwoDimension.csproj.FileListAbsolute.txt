@@ -1,0 +1,16 @@
+D:\ITVDN\Base_OOP\Lesson5\Arrays\002_TwoDimension\bin\Debug\net5.0\002_TwoDimension.exe
+D:\ITVDN\Base_OOP\Lesson5\Arrays\002_TwoDimension\bin\Debug\net5.0\002_TwoDimension.deps.json
+D:\ITVDN\Base_OOP\Lesson5\Arrays\002_TwoDimension\bin\Debug\net5.0\002_TwoDimension.runtimeconfig.json
+D:\ITVDN\Base_OOP\Lesson5\Arrays\002_TwoDimension\bin\Debug\net5.0\002_TwoDimension.runtimeconfig.dev.json
+D:\ITVDN\Base_OOP\Lesson5\Arrays\002_TwoDimension\bin\Debug\net5.0\002_TwoDimension.dll
+D:\ITVDN\Base_OOP\Lesson5\Arrays\002_TwoDimension\bin\Debug\net5.0\ref\002_TwoDimension.dll
+D:\ITVDN\Base_OOP\Lesson5\Arrays\002_TwoDimension\bin\Debug\net5.0\002_TwoDimension.pdb
+D:\ITVDN\Base_OOP\Lesson5\Arrays\002_TwoDimension\obj\Debug\net5.0\002_TwoDimension.csprojAssemblyReference.cache
+D:\ITVDN\Base_OOP\Lesson5\Arrays\002_TwoDimension\obj\Debug\net5.0\002_TwoDimension.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITVDN\Base_OOP\Lesson5\Arrays\002_TwoDimension\obj\Debug\net5.0\002_TwoDimension.AssemblyInfoInputs.cache
+D:\ITVDN\Base_OOP\Lesson5\Arrays\002_TwoDimension\obj\Debug\net5.0\002_TwoDimension.AssemblyInfo.cs
+D:\ITVDN\Base_OOP\Lesson5\Arrays\002_TwoDimension\obj\Debug\net5.0\002_TwoDimension.csproj.CoreCompileInputs.cache
+D:\ITVDN\Base_OOP\Lesson5\Arrays\002_TwoDimension\obj\Debug\net5.0\002_TwoDimension.dll
+D:\ITVDN\Base_OOP\Lesson5\Arrays\002_TwoDimension\obj\Debug\net5.0\ref\002_TwoDimension.dll
+D:\ITVDN\Base_OOP\Lesson5\Arrays\002_TwoDimension\obj\Debug\net5.0\002_TwoDimension.pdb
+D:\ITVDN\Base_OOP\Lesson5\Arrays\002_TwoDimension\obj\Debug\net5.0\002_TwoDimension.genruntimeconfig.cache
