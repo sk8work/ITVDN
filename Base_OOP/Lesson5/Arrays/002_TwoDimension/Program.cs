@@ -29,6 +29,9 @@ namespace _002_TwoDimension
                 }
             }
 
+            // Delay
+            Console.ReadKey();
+
         }
     }
 }

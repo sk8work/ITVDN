@@ -1,0 +1,16 @@
+D:\ITVDN\Base_OOP\Lesson5\Arrays\003_ArrayMultiDim\bin\Debug\net5.0\003_ArrayMultiDim.exe
+D:\ITVDN\Base_OOP\Lesson5\Arrays\003_ArrayMultiDim\bin\Debug\net5.0\003_ArrayMultiDim.deps.json
+D:\ITVDN\Base_OOP\Lesson5\Arrays\003_ArrayMultiDim\bin\Debug\net5.0\003_ArrayMultiDim.runtimeconfig.json
+D:\ITVDN\Base_OOP\Lesson5\Arrays\003_ArrayMultiDim\bin\Debug\net5.0\003_ArrayMultiDim.runtimeconfig.dev.json
+D:\ITVDN\Base_OOP\Lesson5\Arrays\003_ArrayMultiDim\bin\Debug\net5.0\003_ArrayMultiDim.dll
+D:\ITVDN\Base_OOP\Lesson5\Arrays\003_ArrayMultiDim\bin\Debug\net5.0\ref\003_ArrayMultiDim.dll
+D:\ITVDN\Base_OOP\Lesson5\Arrays\003_ArrayMultiDim\bin\Debug\net5.0\003_ArrayMultiDim.pdb
+D:\ITVDN\Base_OOP\Lesson5\Arrays\003_ArrayMultiDim\obj\Debug\net5.0\003_ArrayMultiDim.csprojAssemblyReference.cache
+D:\ITVDN\Base_OOP\Lesson5\Arrays\003_ArrayMultiDim\obj\Debug\net5.0\003_ArrayMultiDim.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITVDN\Base_OOP\Lesson5\Arrays\003_ArrayMultiDim\obj\Debug\net5.0\003_ArrayMultiDim.AssemblyInfoInputs.cache
+D:\ITVDN\Base_OOP\Lesson5\Arrays\003_ArrayMultiDim\obj\Debug\net5.0\003_ArrayMultiDim.AssemblyInfo.cs
+D:\ITVDN\Base_OOP\Lesson5\Arrays\003_ArrayMultiDim\obj\Debug\net5.0\003_ArrayMultiDim.csproj.CoreCompileInputs.cache
+D:\ITVDN\Base_OOP\Lesson5\Arrays\003_ArrayMultiDim\obj\Debug\net5.0\003_ArrayMultiDim.dll
+D:\ITVDN\Base_OOP\Lesson5\Arrays\003_ArrayMultiDim\obj\Debug\net5.0\ref\003_ArrayMultiDim.dll
+D:\ITVDN\Base_OOP\Lesson5\Arrays\003_ArrayMultiDim\obj\Debug\net5.0\003_ArrayMultiDim.pdb
+D:\ITVDN\Base_OOP\Lesson5\Arrays\003_ArrayMultiDim\obj\Debug\net5.0\003_ArrayMultiDim.genruntimeconfig.cache
