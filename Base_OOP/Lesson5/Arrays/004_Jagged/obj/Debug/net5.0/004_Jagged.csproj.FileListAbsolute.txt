@@ -1,0 +1,16 @@
+D:\ITVDN\Base_OOP\Lesson5\Arrays\004_Jagged\bin\Debug\net5.0\004_Jagged.exe
+D:\ITVDN\Base_OOP\Lesson5\Arrays\004_Jagged\bin\Debug\net5.0\004_Jagged.deps.json
+D:\ITVDN\Base_OOP\Lesson5\Arrays\004_Jagged\bin\Debug\net5.0\004_Jagged.runtimeconfig.json
+D:\ITVDN\Base_OOP\Lesson5\Arrays\004_Jagged\bin\Debug\net5.0\004_Jagged.runtimeconfig.dev.json
+D:\ITVDN\Base_OOP\Lesson5\Arrays\004_Jagged\bin\Debug\net5.0\004_Jagged.dll
+D:\ITVDN\Base_OOP\Lesson5\Arrays\004_Jagged\bin\Debug\net5.0\ref\004_Jagged.dll
+D:\ITVDN\Base_OOP\Lesson5\Arrays\004_Jagged\bin\Debug\net5.0\004_Jagged.pdb
+D:\ITVDN\Base_OOP\Lesson5\Arrays\004_Jagged\obj\Debug\net5.0\004_Jagged.csprojAssemblyReference.cache
+D:\ITVDN\Base_OOP\Lesson5\Arrays\004_Jagged\obj\Debug\net5.0\004_Jagged.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITVDN\Base_OOP\Lesson5\Arrays\004_Jagged\obj\Debug\net5.0\004_Jagged.AssemblyInfoInputs.cache
+D:\ITVDN\Base_OOP\Lesson5\Arrays\004_Jagged\obj\Debug\net5.0\004_Jagged.AssemblyInfo.cs
+D:\ITVDN\Base_OOP\Lesson5\Arrays\004_Jagged\obj\Debug\net5.0\004_Jagged.csproj.CoreCompileInputs.cache
+D:\ITVDN\Base_OOP\Lesson5\Arrays\004_Jagged\obj\Debug\net5.0\004_Jagged.dll
+D:\ITVDN\Base_OOP\Lesson5\Arrays\004_Jagged\obj\Debug\net5.0\ref\004_Jagged.dll
+D:\ITVDN\Base_OOP\Lesson5\Arrays\004_Jagged\obj\Debug\net5.0\004_Jagged.pdb
+D:\ITVDN\Base_OOP\Lesson5\Arrays\004_Jagged\obj\Debug\net5.0\004_Jagged.genruntimeconfig.cache
