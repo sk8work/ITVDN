@@ -1,0 +1,15 @@
+D:\ITVDN\Base_OOP\Lesson5\Arrays\006_VarArrays\bin\Debug\net5.0\006_VarArrays.exe
+D:\ITVDN\Base_OOP\Lesson5\Arrays\006_VarArrays\bin\Debug\net5.0\006_VarArrays.deps.json
+D:\ITVDN\Base_OOP\Lesson5\Arrays\006_VarArrays\bin\Debug\net5.0\006_VarArrays.runtimeconfig.json
+D:\ITVDN\Base_OOP\Lesson5\Arrays\006_VarArrays\bin\Debug\net5.0\006_VarArrays.runtimeconfig.dev.json
+D:\ITVDN\Base_OOP\Lesson5\Arrays\006_VarArrays\bin\Debug\net5.0\006_VarArrays.dll
+D:\ITVDN\Base_OOP\Lesson5\Arrays\006_VarArrays\bin\Debug\net5.0\ref\006_VarArrays.dll
+D:\ITVDN\Base_OOP\Lesson5\Arrays\006_VarArrays\bin\Debug\net5.0\006_VarArrays.pdb
+D:\ITVDN\Base_OOP\Lesson5\Arrays\006_VarArrays\obj\Debug\net5.0\006_VarArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITVDN\Base_OOP\Lesson5\Arrays\006_VarArrays\obj\Debug\net5.0\006_VarArrays.AssemblyInfoInputs.cache
+D:\ITVDN\Base_OOP\Lesson5\Arrays\006_VarArrays\obj\Debug\net5.0\006_VarArrays.AssemblyInfo.cs
+D:\ITVDN\Base_OOP\Lesson5\Arrays\006_VarArrays\obj\Debug\net5.0\006_VarArrays.csproj.CoreCompileInputs.cache
+D:\ITVDN\Base_OOP\Lesson5\Arrays\006_VarArrays\obj\Debug\net5.0\006_VarArrays.dll
+D:\ITVDN\Base_OOP\Lesson5\Arrays\006_VarArrays\obj\Debug\net5.0\ref\006_VarArrays.dll
+D:\ITVDN\Base_OOP\Lesson5\Arrays\006_VarArrays\obj\Debug\net5.0\006_VarArrays.pdb
+D:\ITVDN\Base_OOP\Lesson5\Arrays\006_VarArrays\obj\Debug\net5.0\006_VarArrays.genruntimeconfig.cache
