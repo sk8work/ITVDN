@@ -1,0 +1,15 @@
+D:\ITVDN\Base_OOP\Lesson5\Arrays\007_Covariant\bin\Debug\net5.0\007_Covariant.exe
+D:\ITVDN\Base_OOP\Lesson5\Arrays\007_Covariant\bin\Debug\net5.0\007_Covariant.deps.json
+D:\ITVDN\Base_OOP\Lesson5\Arrays\007_Covariant\bin\Debug\net5.0\007_Covariant.runtimeconfig.json
+D:\ITVDN\Base_OOP\Lesson5\Arrays\007_Covariant\bin\Debug\net5.0\007_Covariant.runtimeconfig.dev.json
+D:\ITVDN\Base_OOP\Lesson5\Arrays\007_Covariant\bin\Debug\net5.0\007_Covariant.dll
+D:\ITVDN\Base_OOP\Lesson5\Arrays\007_Covariant\bin\Debug\net5.0\ref\007_Covariant.dll
+D:\ITVDN\Base_OOP\Lesson5\Arrays\007_Covariant\bin\Debug\net5.0\007_Covariant.pdb
+D:\ITVDN\Base_OOP\Lesson5\Arrays\007_Covariant\obj\Debug\net5.0\007_Covariant.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITVDN\Base_OOP\Lesson5\Arrays\007_Covariant\obj\Debug\net5.0\007_Covariant.AssemblyInfoInputs.cache
+D:\ITVDN\Base_OOP\Lesson5\Arrays\007_Covariant\obj\Debug\net5.0\007_Covariant.AssemblyInfo.cs
+D:\ITVDN\Base_OOP\Lesson5\Arrays\007_Covariant\obj\Debug\net5.0\007_Covariant.csproj.CoreCompileInputs.cache
+D:\ITVDN\Base_OOP\Lesson5\Arrays\007_Covariant\obj\Debug\net5.0\007_Covariant.dll
+D:\ITVDN\Base_OOP\Lesson5\Arrays\007_Covariant\obj\Debug\net5.0\ref\007_Covariant.dll
+D:\ITVDN\Base_OOP\Lesson5\Arrays\007_Covariant\obj\Debug\net5.0\007_Covariant.pdb
+D:\ITVDN\Base_OOP\Lesson5\Arrays\007_Covariant\obj\Debug\net5.0\007_Covariant.genruntimeconfig.cache
