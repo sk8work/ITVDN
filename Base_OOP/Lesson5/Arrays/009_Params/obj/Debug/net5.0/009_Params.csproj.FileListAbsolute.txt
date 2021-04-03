@@ -1,0 +1,15 @@
+D:\ITVDN\Base_OOP\Lesson5\Arrays\009_Params\bin\Debug\net5.0\009_Params.exe
+D:\ITVDN\Base_OOP\Lesson5\Arrays\009_Params\bin\Debug\net5.0\009_Params.deps.json
+D:\ITVDN\Base_OOP\Lesson5\Arrays\009_Params\bin\Debug\net5.0\009_Params.runtimeconfig.json
+D:\ITVDN\Base_OOP\Lesson5\Arrays\009_Params\bin\Debug\net5.0\009_Params.runtimeconfig.dev.json
+D:\ITVDN\Base_OOP\Lesson5\Arrays\009_Params\bin\Debug\net5.0\009_Params.dll
+D:\ITVDN\Base_OOP\Lesson5\Arrays\009_Params\bin\Debug\net5.0\ref\009_Params.dll
+D:\ITVDN\Base_OOP\Lesson5\Arrays\009_Params\bin\Debug\net5.0\009_Params.pdb
+D:\ITVDN\Base_OOP\Lesson5\Arrays\009_Params\obj\Debug\net5.0\009_Params.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITVDN\Base_OOP\Lesson5\Arrays\009_Params\obj\Debug\net5.0\009_Params.AssemblyInfoInputs.cache
+D:\ITVDN\Base_OOP\Lesson5\Arrays\009_Params\obj\Debug\net5.0\009_Params.AssemblyInfo.cs
+D:\ITVDN\Base_OOP\Lesson5\Arrays\009_Params\obj\Debug\net5.0\009_Params.csproj.CoreCompileInputs.cache
+D:\ITVDN\Base_OOP\Lesson5\Arrays\009_Params\obj\Debug\net5.0\009_Params.dll
+D:\ITVDN\Base_OOP\Lesson5\Arrays\009_Params\obj\Debug\net5.0\ref\009_Params.dll
+D:\ITVDN\Base_OOP\Lesson5\Arrays\009_Params\obj\Debug\net5.0\009_Params.pdb
+D:\ITVDN\Base_OOP\Lesson5\Arrays\009_Params\obj\Debug\net5.0\009_Params.genruntimeconfig.cache
