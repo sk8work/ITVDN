@@ -1,0 +1,15 @@
+D:\ITVDN\Base_OOP\Lesson5\Arrays\005_ClassArray\bin\Debug\net5.0\005_ClassArray.exe
+D:\ITVDN\Base_OOP\Lesson5\Arrays\005_ClassArray\bin\Debug\net5.0\005_ClassArray.deps.json
+D:\ITVDN\Base_OOP\Lesson5\Arrays\005_ClassArray\bin\Debug\net5.0\005_ClassArray.runtimeconfig.json
+D:\ITVDN\Base_OOP\Lesson5\Arrays\005_ClassArray\bin\Debug\net5.0\005_ClassArray.runtimeconfig.dev.json
+D:\ITVDN\Base_OOP\Lesson5\Arrays\005_ClassArray\bin\Debug\net5.0\005_ClassArray.dll
+D:\ITVDN\Base_OOP\Lesson5\Arrays\005_ClassArray\bin\Debug\net5.0\ref\005_ClassArray.dll
+D:\ITVDN\Base_OOP\Lesson5\Arrays\005_ClassArray\bin\Debug\net5.0\005_ClassArray.pdb
+D:\ITVDN\Base_OOP\Lesson5\Arrays\005_ClassArray\obj\Debug\net5.0\005_ClassArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITVDN\Base_OOP\Lesson5\Arrays\005_ClassArray\obj\Debug\net5.0\005_ClassArray.AssemblyInfoInputs.cache
+D:\ITVDN\Base_OOP\Lesson5\Arrays\005_ClassArray\obj\Debug\net5.0\005_ClassArray.AssemblyInfo.cs
+D:\ITVDN\Base_OOP\Lesson5\Arrays\005_ClassArray\obj\Debug\net5.0\005_ClassArray.csproj.CoreCompileInputs.cache
+D:\ITVDN\Base_OOP\Lesson5\Arrays\005_ClassArray\obj\Debug\net5.0\005_ClassArray.dll
+D:\ITVDN\Base_OOP\Lesson5\Arrays\005_ClassArray\obj\Debug\net5.0\ref\005_ClassArray.dll
+D:\ITVDN\Base_OOP\Lesson5\Arrays\005_ClassArray\obj\Debug\net5.0\005_ClassArray.pdb
+D:\ITVDN\Base_OOP\Lesson5\Arrays\005_ClassArray\obj\Debug\net5.0\005_ClassArray.genruntimeconfig.cache
