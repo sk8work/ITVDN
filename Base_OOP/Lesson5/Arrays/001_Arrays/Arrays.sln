@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_VarArrays", "..\006_Var
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Covariant", "..\007_Covariant\007_Covariant.csproj", "{F1C47752-7C30-405A-AF42-1434E894D5A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_Params", "..\008_Params\008_Params.csproj", "{7A4E3730-3FEA-488A-A604-1B3FF9599FBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{F1C47752-7C30-405A-AF42-1434E894D5A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1C47752-7C30-405A-AF42-1434E894D5A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1C47752-7C30-405A-AF42-1434E894D5A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A4E3730-3FEA-488A-A604-1B3FF9599FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A4E3730-3FEA-488A-A604-1B3FF9599FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A4E3730-3FEA-488A-A604-1B3FF9599FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A4E3730-3FEA-488A-A604-1B3FF9599FBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
