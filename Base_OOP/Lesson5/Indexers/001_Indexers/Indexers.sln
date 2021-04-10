@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Indexers", "001_Indexer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Indexers", "..\002_Indexers\002_Indexers.csproj", "{49F6EEC9-464C-4F1F-94CE-2E83B131E207}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Indexers", "..\003_Indexers\003_Indexers.csproj", "{654B54CD-BEC3-4634-8AAC-3AA6790A118D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{49F6EEC9-464C-4F1F-94CE-2E83B131E207}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49F6EEC9-464C-4F1F-94CE-2E83B131E207}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49F6EEC9-464C-4F1F-94CE-2E83B131E207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{654B54CD-BEC3-4634-8AAC-3AA6790A118D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{654B54CD-BEC3-4634-8AAC-3AA6790A118D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{654B54CD-BEC3-4634-8AAC-3AA6790A118D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{654B54CD-BEC3-4634-8AAC-3AA6790A118D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
