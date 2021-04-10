@@ -13,3 +13,4 @@ D:\ITVDN\Base_OOP\Lesson5\Arrays\009_Params\obj\Debug\net5.0\009_Params.dll
 D:\ITVDN\Base_OOP\Lesson5\Arrays\009_Params\obj\Debug\net5.0\ref\009_Params.dll
 D:\ITVDN\Base_OOP\Lesson5\Arrays\009_Params\obj\Debug\net5.0\009_Params.pdb
 D:\ITVDN\Base_OOP\Lesson5\Arrays\009_Params\obj\Debug\net5.0\009_Params.genruntimeconfig.cache
+D:\ITVDN\Base_OOP\Lesson5\Arrays\009_Params\obj\Debug\net5.0\009_Params.csprojAssemblyReference.cache

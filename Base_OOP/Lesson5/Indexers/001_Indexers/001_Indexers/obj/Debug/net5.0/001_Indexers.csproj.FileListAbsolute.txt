@@ -1,0 +1,16 @@
+D:\ITVDN\Base_OOP\Lesson5\Indexers\001_Indexers\001_Indexers\bin\Debug\net5.0\001_Indexers.exe
+D:\ITVDN\Base_OOP\Lesson5\Indexers\001_Indexers\001_Indexers\bin\Debug\net5.0\001_Indexers.deps.json
+D:\ITVDN\Base_OOP\Lesson5\Indexers\001_Indexers\001_Indexers\bin\Debug\net5.0\001_Indexers.runtimeconfig.json
+D:\ITVDN\Base_OOP\Lesson5\Indexers\001_Indexers\001_Indexers\bin\Debug\net5.0\001_Indexers.runtimeconfig.dev.json
+D:\ITVDN\Base_OOP\Lesson5\Indexers\001_Indexers\001_Indexers\bin\Debug\net5.0\001_Indexers.dll
+D:\ITVDN\Base_OOP\Lesson5\Indexers\001_Indexers\001_Indexers\bin\Debug\net5.0\ref\001_Indexers.dll
+D:\ITVDN\Base_OOP\Lesson5\Indexers\001_Indexers\001_Indexers\bin\Debug\net5.0\001_Indexers.pdb
+D:\ITVDN\Base_OOP\Lesson5\Indexers\001_Indexers\001_Indexers\obj\Debug\net5.0\001_Indexers.csprojAssemblyReference.cache
+D:\ITVDN\Base_OOP\Lesson5\Indexers\001_Indexers\001_Indexers\obj\Debug\net5.0\001_Indexers.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITVDN\Base_OOP\Lesson5\Indexers\001_Indexers\001_Indexers\obj\Debug\net5.0\001_Indexers.AssemblyInfoInputs.cache
+D:\ITVDN\Base_OOP\Lesson5\Indexers\001_Indexers\001_Indexers\obj\Debug\net5.0\001_Indexers.AssemblyInfo.cs
+D:\ITVDN\Base_OOP\Lesson5\Indexers\001_Indexers\001_Indexers\obj\Debug\net5.0\001_Indexers.csproj.CoreCompileInputs.cache
+D:\ITVDN\Base_OOP\Lesson5\Indexers\001_Indexers\001_Indexers\obj\Debug\net5.0\001_Indexers.dll
+D:\ITVDN\Base_OOP\Lesson5\Indexers\001_Indexers\001_Indexers\obj\Debug\net5.0\ref\001_Indexers.dll
+D:\ITVDN\Base_OOP\Lesson5\Indexers\001_Indexers\001_Indexers\obj\Debug\net5.0\001_Indexers.pdb
+D:\ITVDN\Base_OOP\Lesson5\Indexers\001_Indexers\001_Indexers\obj\Debug\net5.0\001_Indexers.genruntimeconfig.cache
