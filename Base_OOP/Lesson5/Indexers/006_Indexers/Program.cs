@@ -1,28 +1,19 @@
 ﻿using System;
 
-// Indexers
+// Indexers (override)
 
-namespace _005_Indexers
+namespace _006_Indexers
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Dictionary dict = new Dictionary();
+            DerivedClass instance = new DerivedClass();
+            BaseClass instance1 = instance as BaseClass;
 
-            Console.WriteLine(dict["книга"]);
-            Console.WriteLine(dict["дом"]);
-            Console.WriteLine(dict["ручка"]);
-            Console.WriteLine(dict["стол"]);
-            Console.WriteLine(dict["карандаш"]);
-            Console.WriteLine(dict["яблоко"]);
-            Console.WriteLine(dict["солнце"]);
-
-            Console.WriteLine(new string('-', 20));
-
-            for (int i = 0; i < 6; i++)
+            for (int i = 0; i < 3; i++)
             {
-                Console.WriteLine(dict[i]);
+                Console.WriteLine(instance1[i]);
             }
 
             // Delay

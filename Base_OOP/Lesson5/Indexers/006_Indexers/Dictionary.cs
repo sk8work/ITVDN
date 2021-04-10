@@ -26,7 +26,7 @@ namespace _005_Indexers
                         return key[i] + " - " + value[i];
 
                 return string.Format("{0} - нет перевода для этого слова", index);
-                    
+
             }
         }
 
@@ -39,6 +39,6 @@ namespace _005_Indexers
                 else
                     return "Попытка обращения за пределы массива";
             }
-        } 
+        }
     }
 }
