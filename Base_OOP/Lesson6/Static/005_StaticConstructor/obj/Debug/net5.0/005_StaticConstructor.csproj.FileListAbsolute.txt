@@ -1,0 +1,15 @@
+D:\ITVDN\Base_OOP\Lesson6\Static\005_StaticConstructor\bin\Debug\net5.0\005_StaticConstructor.exe
+D:\ITVDN\Base_OOP\Lesson6\Static\005_StaticConstructor\bin\Debug\net5.0\005_StaticConstructor.deps.json
+D:\ITVDN\Base_OOP\Lesson6\Static\005_StaticConstructor\bin\Debug\net5.0\005_StaticConstructor.runtimeconfig.json
+D:\ITVDN\Base_OOP\Lesson6\Static\005_StaticConstructor\bin\Debug\net5.0\005_StaticConstructor.runtimeconfig.dev.json
+D:\ITVDN\Base_OOP\Lesson6\Static\005_StaticConstructor\bin\Debug\net5.0\005_StaticConstructor.dll
+D:\ITVDN\Base_OOP\Lesson6\Static\005_StaticConstructor\bin\Debug\net5.0\ref\005_StaticConstructor.dll
+D:\ITVDN\Base_OOP\Lesson6\Static\005_StaticConstructor\bin\Debug\net5.0\005_StaticConstructor.pdb
+D:\ITVDN\Base_OOP\Lesson6\Static\005_StaticConstructor\obj\Debug\net5.0\005_StaticConstructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITVDN\Base_OOP\Lesson6\Static\005_StaticConstructor\obj\Debug\net5.0\005_StaticConstructor.AssemblyInfoInputs.cache
+D:\ITVDN\Base_OOP\Lesson6\Static\005_StaticConstructor\obj\Debug\net5.0\005_StaticConstructor.AssemblyInfo.cs
+D:\ITVDN\Base_OOP\Lesson6\Static\005_StaticConstructor\obj\Debug\net5.0\005_StaticConstructor.csproj.CoreCompileInputs.cache
+D:\ITVDN\Base_OOP\Lesson6\Static\005_StaticConstructor\obj\Debug\net5.0\005_StaticConstructor.dll
+D:\ITVDN\Base_OOP\Lesson6\Static\005_StaticConstructor\obj\Debug\net5.0\ref\005_StaticConstructor.dll
+D:\ITVDN\Base_OOP\Lesson6\Static\005_StaticConstructor\obj\Debug\net5.0\005_StaticConstructor.pdb
+D:\ITVDN\Base_OOP\Lesson6\Static\005_StaticConstructor\obj\Debug\net5.0\005_StaticConstructor.genruntimeconfig.cache
