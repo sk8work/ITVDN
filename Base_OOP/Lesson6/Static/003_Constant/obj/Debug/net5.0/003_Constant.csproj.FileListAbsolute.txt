@@ -1,0 +1,15 @@
+D:\ITVDN\Base_OOP\Lesson6\Static\003_Constant\bin\Debug\net5.0\003_Constant.exe
+D:\ITVDN\Base_OOP\Lesson6\Static\003_Constant\bin\Debug\net5.0\003_Constant.deps.json
+D:\ITVDN\Base_OOP\Lesson6\Static\003_Constant\bin\Debug\net5.0\003_Constant.runtimeconfig.json
+D:\ITVDN\Base_OOP\Lesson6\Static\003_Constant\bin\Debug\net5.0\003_Constant.runtimeconfig.dev.json
+D:\ITVDN\Base_OOP\Lesson6\Static\003_Constant\bin\Debug\net5.0\003_Constant.dll
+D:\ITVDN\Base_OOP\Lesson6\Static\003_Constant\bin\Debug\net5.0\ref\003_Constant.dll
+D:\ITVDN\Base_OOP\Lesson6\Static\003_Constant\bin\Debug\net5.0\003_Constant.pdb
+D:\ITVDN\Base_OOP\Lesson6\Static\003_Constant\obj\Debug\net5.0\003_Constant.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITVDN\Base_OOP\Lesson6\Static\003_Constant\obj\Debug\net5.0\003_Constant.AssemblyInfoInputs.cache
+D:\ITVDN\Base_OOP\Lesson6\Static\003_Constant\obj\Debug\net5.0\003_Constant.AssemblyInfo.cs
+D:\ITVDN\Base_OOP\Lesson6\Static\003_Constant\obj\Debug\net5.0\003_Constant.csproj.CoreCompileInputs.cache
+D:\ITVDN\Base_OOP\Lesson6\Static\003_Constant\obj\Debug\net5.0\003_Constant.dll
+D:\ITVDN\Base_OOP\Lesson6\Static\003_Constant\obj\Debug\net5.0\ref\003_Constant.dll
+D:\ITVDN\Base_OOP\Lesson6\Static\003_Constant\obj\Debug\net5.0\003_Constant.pdb
+D:\ITVDN\Base_OOP\Lesson6\Static\003_Constant\obj\Debug\net5.0\003_Constant.genruntimeconfig.cache
