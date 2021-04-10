@@ -6,7 +6,10 @@ namespace _002_Static
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            NotStaticClass instance = new NotStaticClass(1);
+
+            //instance.Method();
+            NotStaticClass.Method();
         }
     }
 }
