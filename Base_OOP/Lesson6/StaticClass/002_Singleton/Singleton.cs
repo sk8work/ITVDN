@@ -1,0 +1,29 @@
+﻿using System;
+
+namespace _002_Singleton
+{
+
+    // Singleton
+    class Singleton
+    {
+        private static Singleton instance = null;
+
+        // Конструктор - "protected"
+        protected Singleton()
+        {
+        }
+
+        // Фабричный метод
+        public static Singleton Instance()
+        {
+            // Если объект еще не создан (1)
+            if (instance == null)
+            {
+                // то создаем новый экземпляр (2)
+                instance = new Singleton();
+            }
+            // Иначе: возвращаем ссылку на существующий объект (3)
+            return instance;
+        }
+    }
+}

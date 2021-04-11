@@ -1,0 +1,16 @@
+D:\ITVDN\Base_OOP\Lesson6\StaticClass\002_Singleton\bin\Debug\net5.0\002_Singleton.exe
+D:\ITVDN\Base_OOP\Lesson6\StaticClass\002_Singleton\bin\Debug\net5.0\002_Singleton.deps.json
+D:\ITVDN\Base_OOP\Lesson6\StaticClass\002_Singleton\bin\Debug\net5.0\002_Singleton.runtimeconfig.json
+D:\ITVDN\Base_OOP\Lesson6\StaticClass\002_Singleton\bin\Debug\net5.0\002_Singleton.runtimeconfig.dev.json
+D:\ITVDN\Base_OOP\Lesson6\StaticClass\002_Singleton\bin\Debug\net5.0\002_Singleton.dll
+D:\ITVDN\Base_OOP\Lesson6\StaticClass\002_Singleton\bin\Debug\net5.0\ref\002_Singleton.dll
+D:\ITVDN\Base_OOP\Lesson6\StaticClass\002_Singleton\bin\Debug\net5.0\002_Singleton.pdb
+D:\ITVDN\Base_OOP\Lesson6\StaticClass\002_Singleton\obj\Debug\net5.0\002_Singleton.csprojAssemblyReference.cache
+D:\ITVDN\Base_OOP\Lesson6\StaticClass\002_Singleton\obj\Debug\net5.0\002_Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITVDN\Base_OOP\Lesson6\StaticClass\002_Singleton\obj\Debug\net5.0\002_Singleton.AssemblyInfoInputs.cache
+D:\ITVDN\Base_OOP\Lesson6\StaticClass\002_Singleton\obj\Debug\net5.0\002_Singleton.AssemblyInfo.cs
+D:\ITVDN\Base_OOP\Lesson6\StaticClass\002_Singleton\obj\Debug\net5.0\002_Singleton.csproj.CoreCompileInputs.cache
+D:\ITVDN\Base_OOP\Lesson6\StaticClass\002_Singleton\obj\Debug\net5.0\002_Singleton.dll
+D:\ITVDN\Base_OOP\Lesson6\StaticClass\002_Singleton\obj\Debug\net5.0\ref\002_Singleton.dll
+D:\ITVDN\Base_OOP\Lesson6\StaticClass\002_Singleton\obj\Debug\net5.0\002_Singleton.pdb
+D:\ITVDN\Base_OOP\Lesson6\StaticClass\002_Singleton\obj\Debug\net5.0\002_Singleton.genruntimeconfig.cache

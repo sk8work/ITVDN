@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_StaticClass", "001_StaticClass\001_StaticClass.csproj", "{1166527C-141F-4A1F-ADC8-0EC0528D6684}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Singleton", "002_Singleton\002_Singleton.csproj", "{E20E8D1C-C2DD-4F84-B088-93A2C329897E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1166527C-141F-4A1F-ADC8-0EC0528D6684}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1166527C-141F-4A1F-ADC8-0EC0528D6684}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1166527C-141F-4A1F-ADC8-0EC0528D6684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E20E8D1C-C2DD-4F84-B088-93A2C329897E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E20E8D1C-C2DD-4F84-B088-93A2C329897E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E20E8D1C-C2DD-4F84-B088-93A2C329897E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E20E8D1C-C2DD-4F84-B088-93A2C329897E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
