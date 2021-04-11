@@ -1,0 +1,16 @@
+D:\ITVDN\Base_OOP\Lesson6\Extansion\004_Extension\bin\Debug\net5.0\004_Extension.exe
+D:\ITVDN\Base_OOP\Lesson6\Extansion\004_Extension\bin\Debug\net5.0\004_Extension.deps.json
+D:\ITVDN\Base_OOP\Lesson6\Extansion\004_Extension\bin\Debug\net5.0\004_Extension.runtimeconfig.json
+D:\ITVDN\Base_OOP\Lesson6\Extansion\004_Extension\bin\Debug\net5.0\004_Extension.runtimeconfig.dev.json
+D:\ITVDN\Base_OOP\Lesson6\Extansion\004_Extension\bin\Debug\net5.0\004_Extension.dll
+D:\ITVDN\Base_OOP\Lesson6\Extansion\004_Extension\bin\Debug\net5.0\ref\004_Extension.dll
+D:\ITVDN\Base_OOP\Lesson6\Extansion\004_Extension\bin\Debug\net5.0\004_Extension.pdb
+D:\ITVDN\Base_OOP\Lesson6\Extansion\004_Extension\obj\Debug\net5.0\004_Extension.csprojAssemblyReference.cache
+D:\ITVDN\Base_OOP\Lesson6\Extansion\004_Extension\obj\Debug\net5.0\004_Extension.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITVDN\Base_OOP\Lesson6\Extansion\004_Extension\obj\Debug\net5.0\004_Extension.AssemblyInfoInputs.cache
+D:\ITVDN\Base_OOP\Lesson6\Extansion\004_Extension\obj\Debug\net5.0\004_Extension.AssemblyInfo.cs
+D:\ITVDN\Base_OOP\Lesson6\Extansion\004_Extension\obj\Debug\net5.0\004_Extension.csproj.CoreCompileInputs.cache
+D:\ITVDN\Base_OOP\Lesson6\Extansion\004_Extension\obj\Debug\net5.0\004_Extension.dll
+D:\ITVDN\Base_OOP\Lesson6\Extansion\004_Extension\obj\Debug\net5.0\ref\004_Extension.dll
+D:\ITVDN\Base_OOP\Lesson6\Extansion\004_Extension\obj\Debug\net5.0\004_Extension.pdb
+D:\ITVDN\Base_OOP\Lesson6\Extansion\004_Extension\obj\Debug\net5.0\004_Extension.genruntimeconfig.cache
