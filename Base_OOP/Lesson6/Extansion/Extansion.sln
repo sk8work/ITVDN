@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Extansion", "001_Extans
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Extension", "002_Extension\002_Extension.csproj", "{C8602ABC-1E44-4F1D-B8DE-983A66B51C4C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Extension", "0003_Extension\003_Extension.csproj", "{43218030-98F5-4D15-BE71-3F84BB713F89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C8602ABC-1E44-4F1D-B8DE-983A66B51C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8602ABC-1E44-4F1D-B8DE-983A66B51C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8602ABC-1E44-4F1D-B8DE-983A66B51C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43218030-98F5-4D15-BE71-3F84BB713F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43218030-98F5-4D15-BE71-3F84BB713F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43218030-98F5-4D15-BE71-3F84BB713F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43218030-98F5-4D15-BE71-3F84BB713F89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
