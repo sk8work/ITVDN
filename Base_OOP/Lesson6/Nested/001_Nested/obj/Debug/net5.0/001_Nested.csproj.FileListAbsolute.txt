@@ -1,0 +1,16 @@
+D:\ITVDN\Base_OOP\Lesson6\Nested\001_Nested\bin\Debug\net5.0\001_Nested.exe
+D:\ITVDN\Base_OOP\Lesson6\Nested\001_Nested\bin\Debug\net5.0\001_Nested.deps.json
+D:\ITVDN\Base_OOP\Lesson6\Nested\001_Nested\bin\Debug\net5.0\001_Nested.runtimeconfig.json
+D:\ITVDN\Base_OOP\Lesson6\Nested\001_Nested\bin\Debug\net5.0\001_Nested.runtimeconfig.dev.json
+D:\ITVDN\Base_OOP\Lesson6\Nested\001_Nested\bin\Debug\net5.0\001_Nested.dll
+D:\ITVDN\Base_OOP\Lesson6\Nested\001_Nested\bin\Debug\net5.0\ref\001_Nested.dll
+D:\ITVDN\Base_OOP\Lesson6\Nested\001_Nested\bin\Debug\net5.0\001_Nested.pdb
+D:\ITVDN\Base_OOP\Lesson6\Nested\001_Nested\obj\Debug\net5.0\001_Nested.csprojAssemblyReference.cache
+D:\ITVDN\Base_OOP\Lesson6\Nested\001_Nested\obj\Debug\net5.0\001_Nested.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITVDN\Base_OOP\Lesson6\Nested\001_Nested\obj\Debug\net5.0\001_Nested.AssemblyInfoInputs.cache
+D:\ITVDN\Base_OOP\Lesson6\Nested\001_Nested\obj\Debug\net5.0\001_Nested.AssemblyInfo.cs
+D:\ITVDN\Base_OOP\Lesson6\Nested\001_Nested\obj\Debug\net5.0\001_Nested.csproj.CoreCompileInputs.cache
+D:\ITVDN\Base_OOP\Lesson6\Nested\001_Nested\obj\Debug\net5.0\001_Nested.dll
+D:\ITVDN\Base_OOP\Lesson6\Nested\001_Nested\obj\Debug\net5.0\ref\001_Nested.dll
+D:\ITVDN\Base_OOP\Lesson6\Nested\001_Nested\obj\Debug\net5.0\001_Nested.pdb
+D:\ITVDN\Base_OOP\Lesson6\Nested\001_Nested\obj\Debug\net5.0\001_Nested.genruntimeconfig.cache
